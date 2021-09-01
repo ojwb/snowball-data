@@ -16742,7 +16742,6 @@ lázních
 lázně
 lázněmi
 láčky
-lès
 lék
 lékař
 lékaře
@@ -55570,7 +55569,6 @@ zůstávali
 zůstávalo
 zůstávaly
 zůstává
-à
 á
 árie
 árii
