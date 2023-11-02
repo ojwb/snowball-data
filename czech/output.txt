@@ -39,7 +39,7 @@ absolvent
 absolventk
 absolvent
 absolvent
-absolventům
+absolvent
 absolvoval
 absolvoval
 absolvoval
@@ -1105,7 +1105,7 @@ aspekte
 aspekt
 aspekt
 aspekt
-aspektům
+aspekt
 aspirac
 aspirant
 aspirantur
@@ -1956,7 +1956,7 @@ biskupstv
 biskup
 biskup
 biskup
-biskupům
+biskup
 bit
 bitech
 bitev
@@ -2160,7 +2160,7 @@ bojovník
 bojovníke
 bojovník
 bojovník
-bojovníkům
+bojovník
 boj
 boj
 bojové
@@ -2201,7 +2201,7 @@ bolševick
 bolševick
 bolševik
 bolševik
-bolševikům
+bolševik
 bolševism
 bomb
 bomba
@@ -2219,7 +2219,7 @@ bombardér
 bombardér
 bombardér
 bombardér
-bombardérům
+bombardér
 bombou
 bomb
 bomb
@@ -2375,7 +2375,7 @@ bratrstv
 bratr
 bratr
 bratr
-bratrům
+bratr
 bratř
 bratř
 bratř
@@ -2745,7 +2745,7 @@ básníke
 básník
 básník
 básník
-básníkům
+básník
 básnířk
 básnířk
 básnířk
@@ -2879,7 +2879,7 @@ břehe
 břeh
 břeh
 břeh
-břehům
+břeh
 břemen
 břemen
 břevn
@@ -3297,7 +3297,7 @@ chlapc
 chlapce
 chlapc
 chlapc
-chlapcům
+chlapc
 chlapec
 chlapeck
 chlapeck
@@ -3715,7 +3715,7 @@ citů
 civilist
 civilist
 civilist
-civilistům
+civilist
 civilizac
 civilizac
 civilizac
@@ -3732,7 +3732,7 @@ cizinc
 cizince
 cizinc
 cizinc
-cizincům
+cizinc
 cizinec
 cizineck
 ciz
@@ -3858,7 +3858,7 @@ cyklist
 cyklist
 cyklist
 cyklist
-cyklistům
+cyklist
 cyklokros
 cyklostezek
 cyklostezk
@@ -4313,7 +4313,7 @@ demonstrac
 demonstrant
 demonstrant
 demonstrant
-demonstrantům
+demonstrant
 demonstrativn
 demonstroval
 demonstr
@@ -4623,7 +4623,7 @@ dinosaure
 dinosaur
 dinosaur
 dinosaur
-dinosaurům
+dinosaur
 dinosauř
 dinosauř
 dinosauř
@@ -4813,7 +4813,7 @@ divák
 divák
 divák
 divák
-divákům
+divák
 divů
 dizertačn
 dlan
@@ -4868,7 +4868,7 @@ dluhopis
 dluh
 dluh
 dluh
-dluhům
+dluh
 dlužník
 dlužník
 dlužník
@@ -5226,7 +5226,7 @@ dokumentárn
 dokumentárn
 dokumentárn
 dokument
-dokumentům
+dokument
 dokázal
 dokázal
 dokázal
@@ -5348,7 +5348,7 @@ domobran
 domorodc
 domorodc
 domorodc
-domorodcům
+domorodc
 domorod
 domorod
 domorod
@@ -5526,7 +5526,7 @@ dopravc
 dopravce
 dopravc
 dopravc
-dopravcům
+dopravc
 dopraven
 dopraven
 dopraven
@@ -6068,7 +6068,7 @@ druh
 druh
 druh
 druh
-druhům
+druh
 drum
 druz
 druz
@@ -6615,7 +6615,7 @@ dědic
 dědictv
 dědictv
 dědic
-dědicům
+dědic
 děd
 dědit
 dědičk
@@ -6712,7 +6712,7 @@ dělník
 dělníke
 dělník
 dělník
-dělníkům
+dělník
 dělo
 děloh
 dělostřeleck
@@ -6848,7 +6848,7 @@ důsledke
 důsledk
 důsledk
 důsledk
-důsledkům
+důsledk
 důsledn
 důsledn
 důstojnick
@@ -6864,7 +6864,7 @@ důstojník
 důstojníke
 důstojník
 důstojník
-důstojníkům
+důstojník
 důstojn
 důstojn
 důvod
@@ -6872,7 +6872,7 @@ důvode
 důvod
 důvod
 důvod
-důvodům
+důvod
 důvěr
 důvěrn
 důvěrník
@@ -7460,7 +7460,7 @@ evangelík
 evangelík
 evangelík
 evangelík
-evangelíkům
+evangelík
 event
 eventuáln
 eventuáln
@@ -7583,7 +7583,7 @@ experimentáln
 experimentáln
 experimentáln
 experiment
-experimentům
+experiment
 expert
 expert
 experte
@@ -7695,7 +7695,7 @@ faktore
 faktor
 faktor
 faktor
-faktorům
+faktor
 faktu
 fakty
 faktů
@@ -7724,7 +7724,7 @@ fanoušek
 fanouške
 fanoušk
 fanoušk
-fanouškům
+fanoušk
 fantaskn
 fantastick
 fantastick
@@ -8255,7 +8255,7 @@ fotograf
 fotografuj
 fotograf
 fotograf
-fotografům
+fotograf
 foton
 foton
 foton
@@ -9212,7 +9212,7 @@ hlasuj
 hlasujíc
 hlas
 hlas
-hlasům
+hlas
 hlav
 hlav
 hlav
@@ -9611,7 +9611,7 @@ homosexuáln
 homosexuál
 homosexuál
 homosexuál
-homosexuálům
+homosexuál
 hon
 honič
 honorář
@@ -10019,7 +10019,7 @@ hrdinstv
 hrd
 hrd
 hrd
-hrdinům
+hrd
 hrdla
 hrdle
 hrdlem
@@ -10158,7 +10158,7 @@ hráčsk
 hrák
 hrák
 hráč
-hráčům
+hráč
 hrůz
 hrůz
 hrůz
@@ -10183,7 +10183,7 @@ hudebník
 hudebníke
 hudebník
 hudebník
-hudebníkům
+hudebník
 hudebn
 hudebn
 hudebním
@@ -10234,7 +10234,7 @@ husitstv
 husit
 husit
 husit
-husitům
+husit
 hustot
 hustot
 hustot
@@ -11069,7 +11069,7 @@ investor
 investore
 investor
 investor
-investorům
+investor
 investoval
 investoval
 invest
@@ -11361,7 +11361,7 @@ jazykověd
 jazyk
 jazyk
 jazyk
-jazykům
+jazyk
 jazz
 jazzem
 jazz
@@ -11404,7 +11404,7 @@ jedince
 jedinc
 jedinc
 jedinc
-jedincům
+jedinc
 jedinec
 jedinečnost
 jedinečnost
@@ -11541,7 +11541,7 @@ jednotk
 jednotlivc
 jednotlivc
 jednotlivc
-jednotlivcům
+jednotlivc
 jednotlivec
 jednotlivkyň
 jednotliv
@@ -11753,7 +11753,7 @@ jezuitsk
 jezuit
 jezuit
 jezuit
-jezuitům
+jezuit
 jezy
 jezírek
 jezírk
@@ -11925,7 +11925,7 @@ jmén
 jmén
 jmén
 jmén
-jménům
+jmén
 jměn
 jo
 jod
@@ -12279,7 +12279,7 @@ kandidát
 kandidátsk
 kandidát
 kandidát
-kandidátům
+kandidát
 kandži
 kang
 kanibalism
@@ -12615,7 +12615,7 @@ katolík
 katolíke
 katolík
 katolík
-katolíkům
+katolík
 katovick
 kauci
 kauz
@@ -12947,7 +12947,7 @@ klient
 klient
 klient
 klient
-klientům
+klient
 kliknut
 klik
 klik
@@ -13024,7 +13024,7 @@ klub
 klub
 klub
 klub
-klubům
+klub
 kluc
 kluk
 kluk
@@ -13105,7 +13105,7 @@ kmen
 kmen
 kmen
 kmen
-kmenům
+kmen
 kmitočet
 kmitočt
 kmit
@@ -13278,7 +13278,7 @@ koleg
 kolegyn
 kolegyn
 koleg
-kolegům
+koleg
 kolej
 kolej
 kolej
@@ -13630,7 +13630,7 @@ komunist
 komunist
 komunist
 komunist
-komunistům
+komunist
 komunit
 komunit
 komunit
@@ -13716,7 +13716,7 @@ koncertuj
 koncert
 koncert
 koncert
-koncertům
+koncert
 konces
 konces
 konchou
@@ -13799,7 +13799,7 @@ konfliktn
 konflikt
 konflikt
 konflikt
-konfliktům
+konflikt
 konformac
 konformac
 konformn
@@ -13926,7 +13926,7 @@ kontakt
 kontaktuj
 kontakt
 kontakt
-kontaktům
+kontakt
 kontaminac
 kontaminac
 kontaminovan
@@ -14328,7 +14328,7 @@ kostelík
 kostelík
 kostelík
 kostel
-kostelům
+kostel
 koster
 kostern
 kostern
@@ -14502,7 +14502,7 @@ kořen
 kořeníc
 kořen
 kořen
-kořenům
+kořen
 kořist
 kořist
 kořist
@@ -14594,7 +14594,7 @@ krajsk
 krajt
 kraj
 kraj
-krajům
+kraj
 krakovsk
 krakovsk
 kralick
@@ -14685,7 +14685,7 @@ kritik
 kritik
 kritik
 kritik
-kritikům
+kritik
 kritizoval
 kritizoval
 kritizoval
@@ -14739,7 +14739,7 @@ krokodýl
 krok
 krok
 krok
-krokům
+krok
 krom
 krom
 kroměřížsk
@@ -14924,7 +14924,7 @@ králík
 králík
 králík
 král
-králům
+král
 králův
 krám
 krás
@@ -15435,7 +15435,7 @@ křesťan
 křesťan
 křesťanšt
 křesťan
-křesťanům
+křesťan
 křek
 křidélek
 křidélk
@@ -15476,7 +15476,7 @@ křižáck
 křižáck
 křižák
 křižák
-křižákům
+křižák
 křovin
 křov
 křovinat
@@ -15904,7 +15904,7 @@ letadl
 letadl
 letadl
 letadl
-letadlům
+letadl
 letce
 letcem
 letci
@@ -15965,7 +15965,7 @@ letoune
 letoun
 letoun
 letoun
-letounům
+letoun
 letovisk
 letoviske
 letovisk
@@ -16091,7 +16091,7 @@ liberálnějš
 liberál
 liberál
 liberál
-liberálům
+liberál
 libovoln
 libovoln
 libovoln
@@ -16761,7 +16761,7 @@ lékařsk
 lékařsk
 lékařstv
 lékař
-lékařům
+lékař
 lékem
 léku
 léky
@@ -16977,7 +16977,7 @@ majitelk
 majitelk
 majitel
 majitel
-majitelům
+majitel
 major
 major
 majordom
@@ -17075,7 +17075,7 @@ malířsk
 malířsk
 malířstv
 malíř
-malířům
+malíř
 malý
 malých
 malým
@@ -17168,7 +17168,7 @@ manželstv
 manžel
 manžel
 manžel
-manželům
+manžel
 map
 mapa
 mapou
@@ -17332,7 +17332,7 @@ materiál
 materiál
 materiál
 materiál
-materiálům
+materiál
 mateřsk
 mateřsk
 mateřsk
@@ -17781,7 +17781,7 @@ milione
 milion
 milion
 milion
-milionům
+milion
 milisekund
 militantn
 militum
@@ -18139,7 +18139,7 @@ mnichovsk
 mnichovsk
 mnich
 mnich
-mnichům
+mnich
 mniš
 mnišsk
 mnišsk
@@ -18245,7 +18245,7 @@ model
 model
 model
 model
-modelům
+model
 modem
 modern
 modernism
@@ -18592,7 +18592,7 @@ motor
 motor
 motor
 motor
-motorům
+motor
 mottem
 motto
 moták
@@ -18713,7 +18713,7 @@ mraz
 mraz
 mraz
 mraz
-mrazům
+mraz
 mračen
 mračn
 mračn
@@ -18792,7 +18792,7 @@ muslimsk
 muslim
 muslimšt
 muslim
-muslimům
+muslim
 musí
 musím
 musím
@@ -19231,7 +19231,7 @@ měsíce
 měsíc
 měsíc
 měsíc
-měsícům
+měsíc
 měsíčn
 měsíčn
 měsíčn
@@ -19278,7 +19278,7 @@ měšťanstv
 měšťan
 měšťan
 měšťan
-měšťanům
+měšťan
 mříž
 mřížc
 mříž
@@ -19413,7 +19413,7 @@ nacistick
 nacist
 nacist
 nacist
-nacistům
+nacist
 nad
 nadac
 nadac
@@ -21159,7 +21159,7 @@ nepokoj
 nepokoj
 nepokoj
 nepokoj
-nepokojům
+nepokoj
 nepokračoval
 nepokusil
 nepomohl
@@ -21304,7 +21304,7 @@ nepřátelsk
 nepřátelsk
 nepřátelstv
 nepřátel
-nepřátelům
+nepřátel
 nepříjemn
 nepříjemn
 nepříjemn
@@ -22259,7 +22259,7 @@ novinářsk
 novinářsk
 novinářsk
 novinář
-novinářům
+novinář
 novo
 novobarokn
 novodob
@@ -22540,7 +22540,7 @@ nájezdník
 nájezd
 nájezd
 nájezd
-nájezdům
+nájezd
 nájmu
 nákaz
 nákaz
@@ -22567,7 +22567,7 @@ náklad
 náklad
 náklad
 náklad
-nákladům
+náklad
 náklonnost
 náklonnost
 nákres
@@ -22602,7 +22602,7 @@ náleze
 nález
 nález
 nález
-nálezům
+nález
 náležej
 náležejíc
 náležejíc
@@ -22719,7 +22719,7 @@ národopisn
 národ
 národ
 národ
-národům
+národ
 nárok
 nárokoval
 nárokoval
@@ -22728,7 +22728,7 @@ nárok
 nárokuj
 nárok
 nárok
-nárokům
+nárok
 náročnost
 náročnost
 náročnost
@@ -22774,7 +22774,7 @@ následek
 následke
 následk
 následk
-následkům
+následk
 následnictv
 následn
 následn
@@ -22845,7 +22845,7 @@ nástroje
 nástroj
 nástroj
 nástroj
-nástrojům
+nástroj
 nástropn
 nástup
 nástupc
@@ -22928,7 +22928,7 @@ návštěvník
 návštěvníke
 návštěvník
 návštěvník
-návštěvníkům
+návštěvník
 návštěv
 návštěv
 návštěv
@@ -22949,7 +22949,7 @@ názor
 názor
 názor
 názor
-názorům
+názor
 názvech
 názvem
 názvosl
@@ -23121,7 +23121,7 @@ obchodníke
 obchodník
 obchodník
 obchodník
-obchodníkům
+obchodník
 obchodn
 obchodn
 obchodním
@@ -23312,7 +23312,7 @@ objekt
 objekt
 objekt
 objekt
-objektům
+objekt
 objem
 objeme
 objemn
@@ -23363,7 +23363,7 @@ objevujíc
 objev
 objev
 objev
-objevům
+objev
 objezd
 objezd
 objím
@@ -23623,7 +23623,7 @@ obraz
 obraz
 obrazárn
 obraz
-obrazům
+obraz
 obrněn
 obrněn
 obrněn
@@ -23661,7 +23661,7 @@ obránc
 obránce
 obránc
 obránc
-obráncům
+obránc
 obrátil
 obrátil
 obrátil
@@ -23855,7 +23855,7 @@ obyvatelstv
 obyvatel
 obyvatel
 obyvatel
-obyvatelům
+obyvatel
 obyčej
 obyčejn
 obyčejn
@@ -23924,7 +23924,7 @@ občanstv
 občan
 občan
 občan
-občanům
+občan
 občas
 občasn
 občasn
@@ -24132,7 +24132,7 @@ odborník
 odborníke
 odborník
 odborník
-odborníkům
+odborník
 odborn
 odborn
 odborn
@@ -24215,7 +24215,7 @@ oddíle
 oddíl
 oddíl
 oddíl
-oddílům
+oddíl
 oddělen
 oddělen
 oddělen
@@ -24638,7 +24638,7 @@ odpůrc
 odpůrce
 odpůrc
 odpůrc
-odpůrcům
+odpůrc
 odradit
 odraz
 odraze
@@ -25145,7 +25145,7 @@ okupac
 okupant
 okupant
 okupant
-okupantům
+okupant
 okupačn
 okupačn
 okupačn
@@ -25746,7 +25746,7 @@ organizátor
 organizátore
 organizátor
 organizátor
-organizátorům
+organizátor
 organizátoř
 orgasm
 orgán
@@ -25755,7 +25755,7 @@ orgáne
 orgán
 orgán
 orgán
-orgánům
+orgán
 orientac
 orientac
 orientac
@@ -25838,7 +25838,7 @@ osadit
 osadníc
 osadník
 osadník
-osadníkům
+osadník
 osadou
 osadu
 osady
@@ -26032,7 +26032,7 @@ ostr
 ostr
 ostr
 ostr
-ostrovům
+ostr
 ostrožn
 ostrožn
 ostruh
@@ -26575,7 +26575,7 @@ pacient
 pacient
 pacient
 pacient
-pacientům
+pacient
 pacifick
 padac
 padac
@@ -26814,7 +26814,7 @@ panovníke
 panovník
 panovník
 panovník
-panovníkům
+panovník
 panován
 panskou
 panská
@@ -26920,7 +26920,7 @@ parazitujíc
 parazit
 parazit
 parazit
-parazitům
+parazit
 parašutist
 parašutist
 parašutist
@@ -27011,7 +27011,7 @@ partnersk
 partnerstv
 partner
 partner
-partnerům
+partner
 partneř
 partou
 partu
@@ -27026,7 +27026,7 @@ partyzánsk
 partyzánsk
 partyzán
 partyzán
-partyzánům
+partyzán
 partě
 parčík
 pas
@@ -27284,7 +27284,7 @@ peníz
 peněz
 peněz
 peněz
-penězům
+peněz
 peněženk
 peněžit
 peněžn
@@ -27486,7 +27486,7 @@ pilotovan
 pilot
 pilot
 pilot
-pilotům
+pilot
 pilou
 pilovit
 pilu
@@ -27512,7 +27512,7 @@ pirátsk
 pirátstv
 pirát
 pirát
-pirátům
+pirát
 pistol
 pistol
 pistol
@@ -27706,7 +27706,7 @@ plavidl
 plavidle
 plavidl
 plavidl
-plavidlům
+plavidl
 plavil
 plavkyn
 plav
@@ -27982,7 +27982,7 @@ plán
 plán
 plán
 plán
-plánům
+plán
 pláten
 plátk
 plátk
@@ -28340,7 +28340,7 @@ podnikatelsk
 podnikatelsk
 podnikatel
 podnikatel
-podnikatelům
+podnikatel
 podnike
 podnikl
 podnikl
@@ -28357,7 +28357,7 @@ podnik
 podnikán
 podnikán
 podnik
-podnikům
+podnik
 podnož
 podnož
 podnož
@@ -28547,7 +28547,7 @@ podvodník
 podvod
 podvod
 podvod
-podvodům
+podvod
 podvozc
 podvozek
 podvozke
@@ -29031,7 +29031,7 @@ pokus
 pokus
 pokus
 pokus
-pokusům
+pokus
 pokut
 pokut
 pokut
@@ -29087,7 +29087,7 @@ policist
 policist
 policist
 policist
-policistům
+policist
 polik
 poliklinik
 poliklinik
@@ -29116,7 +29116,7 @@ politik
 politik
 politik
 politik
-politikům
+politik
 političk
 političt
 politolog
@@ -29335,7 +29335,7 @@ poměrn
 poměr
 poměr
 poměr
-poměrům
+poměr
 pomůcek
 pomůck
 pomůck
@@ -29760,7 +29760,7 @@ poslanc
 poslance
 poslanc
 poslanc
-poslancům
+poslanc
 poslanec
 poslaneck
 poslaneck
@@ -29800,7 +29800,7 @@ posluchak
 posluchake
 posluchak
 posluchač
-posluchačům
+posluchač
 poslušnost
 poslušnost
 posly
@@ -29909,7 +29909,7 @@ postoje
 postoj
 postoj
 postoj
-postojům
+postoj
 postoupen
 postoupen
 postoupen
@@ -29959,7 +29959,7 @@ postupujíc
 postupujíc
 postup
 postup
-postupům
+postup
 posty
 postřeh
 postřelen
@@ -30092,7 +30092,7 @@ potomk
 potomke
 potomk
 potomk
-potomkům
+potomk
 potomstv
 potomstv
 potopen
@@ -30254,7 +30254,7 @@ poutník
 poutník
 poutník
 poutník
-poutníkům
+poutník
 poutním
 pouto
 poutí
@@ -30441,7 +30441,7 @@ povstal
 povstalc
 povstalc
 povstalc
-povstalcům
+povstalc
 povstaleck
 povstaleck
 povstaleck
@@ -30750,7 +30750,7 @@ počátke
 počátk
 počátk
 počátk
-počátkům
+počátk
 počínaj
 počínajíc
 počínal
@@ -30778,7 +30778,7 @@ počítač
 počítač
 počítak
 počítač
-počítačům
+počítač
 počít
 počítám
 počítán
@@ -30892,7 +30892,7 @@ požadavke
 požadavk
 požadavk
 požadavk
-požadavkům
+požadavk
 požadoval
 požadoval
 požadoval
@@ -30931,7 +30931,7 @@ požárn
 požár
 požár
 požár
-požárům
+požár
 požíraj
 požír
 požívaj
@@ -30973,7 +30973,7 @@ pracovník
 pracovníke
 pracovník
 pracovník
-pracovníkům
+pracovník
 pracovn
 pracovn
 pracovním
@@ -31039,7 +31039,7 @@ pramen
 pramen
 prameníc
 pramen
-pramenům
+pramen
 pran
 prapor
 prapore
@@ -31115,7 +31115,7 @@ pravidle
 pravidl
 pravidl
 pravidl
-pravidlům
+pravidl
 pravil
 pravnuk
 pravnuke
@@ -31206,7 +31206,7 @@ predátor
 predátore
 predátor
 predátor
-predátorům
+predátor
 predátoř
 prefekt
 prefekt
@@ -31365,7 +31365,7 @@ principiáln
 princip
 princip
 princip
-principům
+princip
 princ
 princ
 print
@@ -31406,7 +31406,7 @@ problém
 probl
 problém
 problém
-problémům
+problém
 probodl
 probodn
 probojoval
@@ -31472,7 +31472,7 @@ proces
 proces
 proces
 proces
-procesům
+proces
 procházc
 procházej
 procházejíc
@@ -31544,7 +31544,7 @@ producentk
 producentk
 producent
 producent
-producentům
+producent
 produkc
 produkc
 produkc
@@ -31574,7 +31574,7 @@ produktivn
 produkt
 produkt
 produkt
-produktům
+produkt
 produkuj
 produkuj
 produkujíc
@@ -31621,7 +31621,7 @@ profesionáln
 profesionál
 profesionál
 profesionál
-profesionálům
+profesionál
 profesn
 profesn
 profesn
@@ -31677,7 +31677,7 @@ programátor
 programátor
 programátoř
 program
-programům
+program
 progresivn
 progresivn
 progresivn
@@ -31777,7 +31777,7 @@ projekt
 projekt
 projekt
 projekt
-projektům
+projekt
 projekčn
 projel
 projet
@@ -31804,7 +31804,7 @@ projevujíc
 projev
 projev
 projev
-projevům
+projev
 projít
 projížd
 projížděj
@@ -32180,7 +32180,7 @@ prostředke
 prostředk
 prostředk
 prostředk
-prostředkům
+prostředk
 prostřednictv
 prostřednictv
 prostředn
@@ -32236,7 +32236,7 @@ protestantstv
 protestant
 protestantšt
 protestant
-protestantům
+protestant
 protest
 protestn
 protestn
@@ -32251,7 +32251,7 @@ protestujíc
 protestujíc
 protest
 protest
-protestům
+protest
 prot
 protichůdn
 protichůdn
@@ -32310,7 +32310,7 @@ protivníke
 protivník
 protivník
 protivník
-protivníkům
+protivník
 protivzdušn
 protiváh
 protiváh
@@ -32377,7 +32377,7 @@ proudíc
 prouděn
 prouděn
 proud
-proudům
+proud
 prout
 proužek
 proužke
@@ -32731,7 +32731,7 @@ právoplatn
 práv
 práv
 práv
-právům
+práv
 prázdnin
 prázdn
 prázdn
@@ -32797,7 +32797,7 @@ průkopník
 průkopníke
 průkopník
 průkopník
-průkopníkům
+průkopník
 průlet
 průlet
 průliv
@@ -32989,7 +32989,7 @@ pták
 ptáke
 pták
 pták
-ptákům
+pták
 ptát
 pu
 pubert
@@ -33524,7 +33524,7 @@ předchůdc
 předchůdce
 předchůdc
 předchůdc
-předchůdcům
+předchůdc
 předchůdkyn
 předchůdkyn
 předc
@@ -33568,7 +33568,7 @@ předkolumbovsk
 předk
 předk
 předk
-předkům
+předk
 předlitavsk
 předlitavsk
 předloh
@@ -33607,7 +33607,7 @@ předm
 předmět
 předmět
 předmět
-předmětům
+předmět
 předn
 přednesl
 přednesl
@@ -33648,7 +33648,7 @@ předpise
 předpis
 předpis
 předpis
-předpisům
+předpis
 předplatitel
 předplatn
 předplatn
@@ -33657,7 +33657,7 @@ předpoklade
 předpoklad
 předpoklad
 předpoklad
-předpokladům
+předpoklad
 předpokládaj
 předpokládal
 předpokládal
@@ -33740,7 +33740,7 @@ představitelk
 představitelk
 představitel
 představitel
-představitelům
+představitel
 představivost
 představivost
 představ
@@ -33938,7 +33938,7 @@ překladišt
 překlad
 překlad
 překlad
-překladům
+překlad
 překlasifikován
 překlenout
 překlenuj
@@ -34338,7 +34338,7 @@ přesunut
 přesunut
 přesun
 přesun
-přesunům
+přesun
 přesvat
 přesvědčen
 přesvědčen
@@ -35001,7 +35001,7 @@ přistěhoval
 přistěhovalc
 přistěhovalc
 přistěhovalc
-přistěhovalcům
+přistěhovalc
 přistěhovalectv
 přistěhoval
 přisuzován
@@ -35136,7 +35136,7 @@ přátelsk
 přátelsk
 přátelstv
 přátel
-přátelům
+přátel
 pří
 příbuzensk
 příbuzensk
@@ -35161,7 +35161,7 @@ příběhe
 příběh
 příběh
 příběh
-příběhům
+příběh
 příběz
 příchod
 příchode
@@ -35335,7 +35335,7 @@ případ
 případ
 případ
 případ
-případům
+případ
 příplatek
 přípojk
 přípon
@@ -35434,7 +35434,7 @@ příslušník
 příslušníke
 příslušník
 příslušník
-příslušníkům
+příslušník
 příslušn
 příslušn
 příslušn
@@ -35576,7 +35576,7 @@ příznivc
 příznivce
 příznivc
 příznivc
-příznivcům
+příznivc
 příznivec
 přízniv
 přízniv
@@ -36046,7 +36046,7 @@ rebeli
 rebel
 rebel
 rebel
-rebelům
+rebel
 recentn
 recentn
 recenz
@@ -36667,7 +36667,7 @@ rizik
 rizik
 rizik
 rizik
-rizikům
+rizik
 rjú
 road
 roadster
@@ -36733,7 +36733,7 @@ rodičovsk
 rodičovstv
 rodik
 rodič
-rodičům
+rodič
 rodišt
 rodišt
 rodištěm
@@ -36813,7 +36813,7 @@ rolník
 rolníke
 rolník
 rolník
-rolníkům
+rolník
 rolí
 rolích
 rolím
@@ -36855,7 +36855,7 @@ románsk
 román
 román
 román
-románům
+román
 roní
 root
 ropa
@@ -37039,7 +37039,7 @@ rozdíln
 rozdíl
 rozdíl
 rozdíl
-rozdílům
+rozdíl
 rozdělen
 rozdělen
 rozdělen
@@ -37271,7 +37271,7 @@ rozměr
 rozměr
 rozměr
 rozměr
-rozměrům
+rozměr
 rozpad
 rozpadaj
 rozpadajíc
@@ -37292,7 +37292,7 @@ rozpor
 rozporupln
 rozpor
 rozpor
-rozporům
+rozpor
 rozpoutal
 rozpoutal
 rozpoután
@@ -37791,7 +37791,7 @@ rytířsk
 rytířsk
 rytířstv
 rytíř
-rytířům
+rytíř
 ryze
 ryzí
 rzi
@@ -38659,7 +38659,7 @@ seriál
 seriál
 seriál
 seriál
-seriálům
+seriál
 seriózn
 seroton
 server
@@ -39259,7 +39259,7 @@ skladatel
 skladatelsk
 skladatel
 skladatel
-skladatelům
+skladatel
 skladb
 skladb
 skladb
@@ -39805,7 +39805,7 @@ slovosled
 sl
 sl
 sl
-slovům
+sl
 složc
 složek
 složen
@@ -40066,7 +40066,7 @@ směr
 směr
 směr
 směr
-směrům
+směr
 směs
 směs
 směsic
@@ -40163,7 +40163,7 @@ snímkován
 snímk
 snímk
 snímk
-snímkům
+snímk
 sním
 snímán
 sníst
@@ -40385,7 +40385,7 @@ soubor
 soubor
 soubor
 soubor
-souborům
+soubor
 souběh
 souběh
 souběžn
@@ -40494,7 +40494,7 @@ soupeř
 soupeříc
 soupeříc
 soupeř
-soupeřům
+soupeř
 soupis
 soupisc
 soupisk
@@ -40512,7 +40512,7 @@ source
 sourozenc
 sourozenc
 sourozenc
-sourozencům
+sourozenc
 souručenstv
 sous
 soused
@@ -40533,7 +40533,7 @@ soused
 sousedíc
 sousedíc
 soused
-sousedům
+soused
 sousl
 sousoš
 sousoš
@@ -40835,7 +40835,7 @@ spisovatelk
 spisovatelsk
 spisovatel
 spisovatel
-spisovatelům
+spisovatel
 spisovn
 spisovn
 spisovn
@@ -40903,7 +40903,7 @@ spojenc
 spojence
 spojenc
 spojenc
-spojencům
+spojenc
 spojenec
 spojeneck
 spojeneck
@@ -41054,7 +41054,7 @@ spolk
 spolk
 spolk
 spolk
-spolkům
+spolk
 spoločnosť
 spol
 spoluautor
@@ -41087,7 +41087,7 @@ spolupracovník
 spolupracovníke
 spolupracovník
 spolupracovník
-spolupracovníkům
+spolupracovník
 spolupracuj
 spolupracuj
 spolupracujíc
@@ -41153,7 +41153,7 @@ sportovc
 sportovce
 sportovc
 sportovc
-sportovcům
+sportovc
 sportovec
 sportovišt
 sportovišť
@@ -41169,11 +41169,11 @@ sportovn
 sport
 sport
 sport
-sportům
+sport
 spor
 spor
 spor
-sporům
+spor
 spot
 spotřeb
 spotřebitel
@@ -41183,7 +41183,7 @@ spotřebitelsk
 spotřebitelsk
 spotřebitel
 spotřebitel
-spotřebitelům
+spotřebitel
 spotřebik
 spotřebič
 spotřebn
@@ -41512,7 +41512,7 @@ standardn
 standard
 standard
 standard
-standardům
+standard
 stan
 stanic
 stanic
@@ -41704,7 +41704,7 @@ statkář
 statkář
 statkář
 statk
-statkům
+statk
 statn
 stator
 stat
@@ -41775,7 +41775,7 @@ stavěn
 stavěn
 stavět
 stav
-stavům
+stav
 stačil
 stačil
 stačil
@@ -41954,7 +41954,7 @@ stoupenc
 stoupence
 stoupenc
 stoupenc
-stoupencům
+stoupenc
 stoupenec
 stoupl
 stoupl
@@ -42080,7 +42080,7 @@ strojírenstv
 strojírn
 strojírn
 stroj
-strojům
+stroj
 strom
 strom
 stromek
@@ -42098,7 +42098,7 @@ strom
 strom
 strom
 strom
-stromům
+strom
 strop
 strope
 stropn
@@ -42202,7 +42202,7 @@ studentsk
 studentstv
 student
 student
-studentům
+student
 studen
 studen
 studen
@@ -42368,7 +42368,7 @@ stát
 stát
 stát
 stát
-státům
+stát
 stávaj
 stávajíc
 stávajíc
@@ -42587,7 +42587,7 @@ střet
 střetávaj
 střetáv
 střet
-střetům
+střet
 střev
 střev
 střev
@@ -42669,7 +42669,7 @@ subjektivn
 subjekt
 subjekt
 subjekt
-subjektům
+subjekt
 subkontinent
 subkontinent
 subkultur
@@ -43141,7 +43141,7 @@ symbolizujíc
 symbol
 symbol
 symbol
-symbolům
+symbol
 symetrick
 symetrick
 symetrick
@@ -43255,7 +43255,7 @@ systém
 systému
 systém
 systém
-systémům
+systém
 syté
 sytě
 sádlo
@@ -44167,7 +44167,7 @@ tisícilet
 tisícovk
 tisíc
 tisíc
-tisícům
+tisíc
 titan
 titan
 tito
@@ -44187,7 +44187,7 @@ titulárn
 titulárn
 titulárn
 titul
-titulům
+titul
 tiše
 tištěn
 tištěn
@@ -44224,7 +44224,7 @@ tlak
 tlak
 tlak
 tlak
-tlakům
+tlak
 tlam
 tlam
 tlačil
@@ -44572,7 +44572,7 @@ trende
 trend
 trend
 trend
-trendům
+trend
 trenér
 trenér
 trenére
@@ -44607,7 +44607,7 @@ trest
 trestán
 trestán
 trest
-trestům
+trest
 trezor
 trh
 trhav
@@ -44991,7 +44991,7 @@ turistik
 turist
 turist
 turist
-turistům
+turist
 turkick
 turkick
 turkick
@@ -45121,7 +45121,7 @@ tvůrc
 tvůrce
 tvůrc
 tvůrc
-tvůrcům
+tvůrc
 tvůrk
 tvůrk
 tvůrk
@@ -46156,7 +46156,7 @@ uprchlíc
 uprchlík
 uprchlík
 uprchlík
-uprchlíkům
+uprchlík
 uprchlých
 uprchne
 uprchnout
@@ -46767,7 +46767,7 @@ učitelsk
 učitelstv
 učitel
 učitel
-učitelům
+učitel
 učiva
 učni
 učně
@@ -46833,7 +46833,7 @@ uživatelsk
 uživatelsk
 uživatel
 uživatel
-uživatelům
+uživatel
 uživit
 užovka
 užít
@@ -47161,7 +47161,7 @@ velitelstv
 velitelstv
 velitel
 velitel
-velitelům
+velitel
 veličin
 velik
 velik
@@ -47372,7 +47372,7 @@ veterán
 veterán
 veterán
 veterán
-veteránům
+veterán
 veto
 vetřelc
 vetřelc
@@ -47683,7 +47683,7 @@ vlak
 vlak
 vlak
 vlak
-vlakům
+vlak
 vlas
 vlas
 vlas
@@ -47734,7 +47734,7 @@ vlastníke
 vlastník
 vlastník
 vlastník
-vlastníkům
+vlastník
 vlastn
 vlastn
 vlastním
@@ -47793,7 +47793,7 @@ vlivn
 vliv
 vliv
 vliv
-vlivům
+vliv
 vlk
 vlka
 vlkodlak
@@ -47846,7 +47846,7 @@ vládce
 vládc
 vládc
 vládc
-vládcům
+vládc
 vládl
 vládl
 vládl
@@ -48047,7 +48047,7 @@ voják
 vojáke
 voják
 voják
-vojákům
+voják
 vojín
 vojín
 vokál
@@ -48173,7 +48173,7 @@ vozidl
 vozidle
 vozidl
 vozidl
-vozidlům
+vozidl
 vozil
 vozit
 vozovc
@@ -48295,7 +48295,7 @@ vrchol
 vrcholíc
 vrcholíc
 vrchol
-vrcholům
+vrchol
 vrchov
 vrchov
 vrchov
@@ -50112,7 +50112,7 @@ vzat
 vzbouřenc
 vzbouřenc
 vzbouřenc
-vzbouřencům
+vzbouřenc
 vzbouřil
 vzbouřil
 vzbouřil
@@ -50363,7 +50363,7 @@ vztahujíc
 vztahujíc
 vztah
 vztah
-vztahům
+vztah
 vztaz
 vztažn
 vztek
@@ -50649,7 +50649,7 @@ vítězstv
 vítězstv
 vítěz
 vítěz
-vítězům
+vítěz
 víz
 víza
 vízum
@@ -50876,7 +50876,7 @@ výkon
 výkon
 výkon
 výkon
-výkonům
+výkon
 výkres
 výkres
 výkroj
@@ -50994,13 +50994,13 @@ výrobce
 výrobc
 výrobc
 výrobc
-výrobcům
+výrobc
 výrobek
 výrobke
 výrobk
 výrobk
 výrobk
-výrobkům
+výrobk
 výrobn
 výrobn
 výrobn
@@ -51062,7 +51062,7 @@ výsledk
 výsledk
 výsledk
 výsledk
-výsledkům
+výsledk
 výsledn
 výsledn
 výsledn
@@ -51194,7 +51194,7 @@ vývojář
 vývojáře
 vývojář
 vývojář
-vývojářům
+vývojář
 vývoz
 vývoz
 vývrtem
@@ -51227,7 +51227,7 @@ výzkumn
 výzkum
 výzkum
 výzkum
-výzkumům
+výzkum
 význam
 význam
 význame
@@ -51528,7 +51528,7 @@ věřitel
 věřitel
 věřitel
 věřitel
-věřitelům
+věřitel
 věří
 věříc
 věříc
@@ -52083,7 +52083,7 @@ zakladatelk
 zakladatelsk
 zakladatel
 zakladatel
-zakladatelům
+zakladatel
 zaklenut
 zaklenut
 zaklenut
@@ -52280,7 +52280,7 @@ zaměstnanc
 zaměstnance
 zaměstnanc
 zaměstnanc
-zaměstnancům
+zaměstnanc
 zaměstnanec
 zaměstnaneck
 zaměstnanost
@@ -52295,7 +52295,7 @@ zaměstnavatele
 zaměstnavatel
 zaměstnavatel
 zaměstnavatel
-zaměstnavatelům
+zaměstnavatel
 zaměstnán
 zaměstnán
 zaměstnán
@@ -53241,7 +53241,7 @@ zdroj
 zdroj
 zdroj
 zdroj
-zdrojům
+zdroj
 zdráhal
 zdráh
 zdržel
@@ -53366,7 +53366,7 @@ země
 zemědělc
 zemědělc
 zemědělc
-zemědělcům
+zemědělc
 zemědělec
 zemědělsk
 zemědělsk
@@ -53781,7 +53781,7 @@ zloke
 zlok
 zlok
 zlok
-zločinům
+zlok
 zlu
 zlá
 zlé
@@ -53925,7 +53925,7 @@ znak
 znak
 znak
 znak
-znakům
+znak
 znal
 znal
 znalc
@@ -54411,7 +54411,7 @@ způsobujíc
 způsob
 způsob
 způsob
-způsobům
+způsob
 zrad
 zradil
 zrad
@@ -54933,7 +54933,7 @@ zájem
 zájemc
 zájemc
 zájemc
-zájemcům
+zájemc
 zájezd
 zájezdn
 zájezd
@@ -54959,7 +54959,7 @@ zákazníke
 zákazník
 zákazník
 zákazník
-zákazníkům
+zákazník
 zákaz
 zákaz
 zákaz
@@ -54984,7 +54984,7 @@ základ
 základ
 základ
 základ
-základům
+základ
 záklenke
 záklenk
 zákon
@@ -55018,7 +55018,7 @@ zákoníke
 zákoník
 zákon
 zákon
-zákonům
+zákon
 zákop
 zákop
 zákout
@@ -55157,7 +55157,7 @@ zápas
 zápas
 zápas
 zápas
-zápasům
+zápas
 zápis
 zápis
 zápis
@@ -55215,7 +55215,7 @@ zásahe
 zásah
 zásah
 zásah
-zásahům
+zásah
 zásaz
 zásilek
 zásilk
@@ -55266,7 +55266,7 @@ zástupc
 zástupce
 zástupc
 zástupc
-zástupcům
+zástupc
 zástupkyn
 zástupkyn
 zástup
@@ -55290,7 +55290,7 @@ závazek
 závazk
 závazk
 závazk
-závazkům
+závazk
 závazn
 závazn
 závazn
@@ -55354,7 +55354,7 @@ závodíc
 závod
 závoděn
 závod
-závodům
+závod
 závoj
 závoje
 závorc
@@ -55376,7 +55376,7 @@ závěrk
 závěr
 závěr
 závěr
-závěrům
+závěr
 závěs
 závěse
 závěsn
@@ -55395,7 +55395,7 @@ záznam
 záznam
 záznam
 záznam
-záznamům
+záznam
 zázrak
 zázrake
 zázrak
@@ -55850,7 +55850,7 @@ zůstáv
 úspěch
 úspěch
 úspěch
-úspěchům
+úspěch
 úspěšnost
 úspěšnost
 úspěšnost
@@ -55961,7 +55961,7 @@ zůstáv
 útočník
 útočník
 útočník
-útočníkům
+útočník
 útočný
 útočných
 útočí
@@ -55979,7 +55979,7 @@ zůstáv
 útvar
 útvar
 útvar
-útvarům
+útvar
 útěchu
 útěk
 útěkem
@@ -56057,7 +56057,7 @@ zůstáv
 účastníke
 účastník
 účastník
-účastníkům
+účastník
 účastí
 účel
 účelem
@@ -56139,7 +56139,7 @@ zůstáv
 úředníke
 úředník
 úředník
-úředníkům
+úředník
 úředním
 úředně
 úžasné
@@ -56592,7 +56592,7 @@ zůstáv
 členěn
 členěn
 člen
-členům
+člen
 člověk
 člověk
 člověke
@@ -56610,7 +56610,7 @@ zůstáv
 článk
 článk
 článk
-článkům
+článk
 ční
 čnělk
 čnělk
@@ -56645,7 +56645,7 @@ zůstáv
 čtenářsk
 čtenářsk
 čtenář
-čtenářům
+čtenář
 čten
 čten
 čtečk
@@ -57437,7 +57437,7 @@ zůstáv
 škůdc
 škůdc
 škůdc
-škůdcům
+škůdc
 šla
 šlach
 šlach
@@ -57455,7 +57455,7 @@ zůstáv
 šlechtick
 šlechtick
 šlechtic
-šlechticům
+šlechtic
 šlechtičen
 šlechtičn
 šlechtičn
@@ -57985,7 +57985,7 @@ zůstáv
 živočich
 živočich
 živočich
-živočichům
+živočich
 živočišn
 živočišn
 živočišn
