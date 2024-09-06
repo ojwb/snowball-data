@@ -292,7 +292,7 @@ akordeon
 akordy
 akordů
 akorát
-akov
+ak
 akreditac
 akreditac
 akreditovan
@@ -560,7 +560,7 @@ americk
 američt
 amfiteátr
 amfiteátr
-aminokyselin
+aminokysel
 aminokysel
 aminokysel
 aminy
@@ -1380,7 +1380,7 @@ autorství
 autory
 autorů
 autorům
-autorův
+autor
 autosalon
 autoři
 autu
@@ -1688,7 +1688,7 @@ baště
 bažant
 bažantnic
 bažant
-bažin
+baž
 baž
 bažinat
 bažinat
@@ -1896,7 +1896,7 @@ bilingvn
 bilion
 bilion
 billboard
-bin
+b
 binárn
 binárn
 binárn
@@ -2501,7 +2501,7 @@ bubeník
 bubeník
 bubeníke
 bubeník
-bublin
+bubl
 bubl
 bubnové
 bubnu
@@ -2541,7 +2541,7 @@ budouc
 budouc
 budouc
 budoucím
-budov
+bud
 bud
 budoval
 budoval
@@ -2635,7 +2635,7 @@ bustu
 busty
 but
 buzen
-bučin
+buč
 buč
 buč
 buď
@@ -2665,7 +2665,7 @@ bydlí
 byl
 byla
 byli
-bylin
+byl
 byl
 byl
 bylinn
@@ -2765,7 +2765,7 @@ bídu
 bídy
 bídě
 bíle
-bílkovin
+bílkov
 bílkov
 bílo
 bílou
@@ -3411,7 +3411,7 @@ chot
 chot
 chot
 chou
-chov
+ch
 chovaj
 choval
 choval
@@ -3430,7 +3430,7 @@ chovatelsk
 chovatel
 chovatel
 ch
-che
+chove
 chovn
 chovn
 chovn
@@ -3961,7 +3961,7 @@ císařstv
 císařstv
 císařšt
 císař
-císařův
+císař
 cítil
 cítil
 cítil
@@ -4617,7 +4617,7 @@ dimenz
 dimenz
 dimer
 dimorfism
-din
+d
 dinosaur
 dinosaure
 dinosaur
@@ -5286,7 +5286,7 @@ dolů
 dolům
 dom
 doma
-domain
+doma
 domech
 domek
 domem
@@ -5356,10 +5356,10 @@ domorod
 domorod
 domorod
 domorod
-domov
 dom
 dom
-dome
+dom
+domove
 domov
 domov
 domov
@@ -6218,7 +6218,7 @@ dusík
 dusíkat
 dusíke
 dusík
-dutin
+dut
 dut
 dut
 dut
@@ -6640,7 +6640,7 @@ dějepis
 dějepisectv
 dějepis
 ději
-dějin
+děj
 děj
 dějinn
 děj
@@ -6766,7 +6766,7 @@ dřev
 dřev
 dřevařsk
 dřeve
-dřevin
+dřev
 dřev
 dřev
 dřev
@@ -9036,7 +9036,7 @@ helmy
 helénism
 hemikryptofyt
 hemisfér
-hemoglobin
+hemoglob
 hemoglob
 hepatitid
 her
@@ -9078,8 +9078,8 @@ herní
 herních
 herního
 herním
-heroin
-heroe
+hero
+heroine
 hero
 hesel
 hesensk
@@ -9159,7 +9159,7 @@ hl
 hlad
 hladc
 hlade
-hladin
+hlad
 hlad
 hlad
 hladin
@@ -9299,7 +9299,7 @@ hlouběj
 hloup
 hloup
 hltan
-hlubin
+hlub
 hlubinn
 hlubinn
 hlubinn
@@ -9450,7 +9450,7 @@ hodem
 hoden
 hodil
 hodil
-hodin
+hod
 hod
 hod
 hodinek
@@ -9675,7 +9675,7 @@ hornick
 hornick
 hornick
 hornictv
-hornin
+horn
 horn
 horn
 horn
@@ -9821,7 +9821,7 @@ hotel
 hotel
 hotel
 hotel
-hotov
+hot
 hot
 hot
 hotovost
@@ -10398,10 +10398,10 @@ hřbet
 hřbet
 hřbet
 hřbet
-hřbitov
 hřbit
 hřbit
-hřbite
+hřbit
+hřbitove
 hřbitovn
 hřbit
 hřbit
@@ -11078,7 +11078,7 @@ investoř
 investuj
 inzerc
 inzerát
-inzulin
+inzul
 inzul
 inženýr
 inženýr
@@ -11839,7 +11839,7 @@ jim
 jimi
 jimiž
 jimž
-jin
+j
 jinak
 jinam
 jinde
@@ -12092,7 +12092,7 @@ kabel
 kabel
 kabel
 kabel
-kabin
+kab
 kab
 kabinet
 kabinet
@@ -12335,7 +12335,7 @@ kapacit
 kapacit
 kapacit
 kapacit
-kapalin
+kapal
 kapal
 kapal
 kapal
@@ -12422,7 +12422,7 @@ kaplích
 kapot
 kapr
 kapra
-kapradin
+kaprad
 kaprad
 kaprad
 kapraď
@@ -12760,7 +12760,7 @@ kilometr
 kilometr
 kilometr
 kilometr
-kin
+k
 kina
 kinech
 kinem
@@ -13223,7 +13223,7 @@ koeficiente
 koeficient
 koeficient
 koeficient
-kofein
+kofe
 kofe
 kognitivn
 kognitivn
@@ -13238,7 +13238,7 @@ kojenc
 kojenc
 kojen
 kojí
-kokain
+koka
 koka
 kokos
 kokos
@@ -14101,15 +14101,15 @@ koníček
 koníčke
 koníčk
 konče
-končetin
 končet
 končet
 končet
+končet
 končil
 končil
 končil
 končil
-končin
+konč
 končit
 končí
 končíc
@@ -14359,7 +14359,7 @@ koteln
 koteln
 kotle
 kotli
-kotlin
+kotl
 kotl
 kotl
 kotl
@@ -14426,7 +14426,7 @@ kouřem
 kouřen
 kouřit
 kouří
-kov
+k
 kovalentn
 kovan
 kovem
@@ -14518,7 +14518,7 @@ košil
 košů
 kožen
 kožen
-kožešin
+kožeš
 kožeš
 kožeš
 kožeš
@@ -14552,7 +14552,7 @@ kraj
 krajek
 kraje
 kraj
-krajin
+kraj
 kraj
 krajinn
 krajinn
@@ -14762,7 +14762,7 @@ kroužke
 kroužk
 kroužk
 kroužk
-krov
+kr
 krovk
 kr
 kr
@@ -14925,7 +14925,7 @@ králík
 králík
 král
 král
-králův
+král
 krám
 krás
 krás
@@ -15270,7 +15270,7 @@ květenstv
 květenstv
 květen
 květen
-květin
+květ
 květ
 květ
 květ
@@ -15302,7 +15302,7 @@ kyjevsk
 kypersk
 kypersk
 kypersk
-kyselin
+kysel
 kysel
 kysel
 kysel
@@ -15477,7 +15477,7 @@ křižáck
 křižák
 křižák
 křižák
-křovin
+křov
 křov
 křovinat
 křovinat
@@ -15680,7 +15680,7 @@ lavic
 lavic
 lavic
 lavic
-lavin
+lav
 lav
 lav
 lavičc
@@ -15738,7 +15738,7 @@ led
 led
 led
 ledu
-ledvin
+ledv
 ledvin
 ledv
 ledv
@@ -16190,7 +16190,7 @@ ligách
 liho
 lihovar
 lihovar
-lihovin
+lihov
 lihu
 like
 likvidac
@@ -16218,7 +16218,7 @@ limit
 limit
 limuzín
 limuzín
-lin
+l
 lince
 line
 linek
@@ -16272,7 +16272,7 @@ listem
 listen
 listen
 listen
-listin
+list
 list
 listinn
 list
@@ -16543,7 +16543,7 @@ loutky
 loutnu
 loučen
 loučí
-lov
+l
 lovce
 lovcem
 lovci
@@ -16951,7 +16951,7 @@ mail
 mailu
 maily
 mailů
-main
+ma
 majalis
 majestát
 majestátn
@@ -17534,7 +17534,7 @@ mentáln
 mentáln
 mentáln
 menu
-menšin
+menš
 menš
 menš
 menš
@@ -17855,7 +17855,7 @@ mimořádn
 mimořádn
 mimořádn
 mimoškoln
-min
+m
 minaret
 mince
 mincemi
@@ -18042,7 +18042,7 @@ mladším
 mld
 mlet
 mlha
-mlhovin
+mlhov
 mlhov
 mlhov
 mlhov
@@ -18163,7 +18163,7 @@ mnoh
 mnou
 mnoz
 množen
-množin
+množ
 množ
 množ
 množ
@@ -19435,7 +19435,7 @@ nadcházejíc
 nadcházejíc
 nade
 nadhoz
-nadledvin
+nadledv
 nadlouh
 nadlož
 nadmořsk
@@ -19874,7 +19874,7 @@ narostl
 narovnán
 narozen
 narozen
-narozenin
+narozen
 narozen
 narozen
 narozen
@@ -21591,7 +21591,7 @@ neustál
 neustál
 neutralit
 neutralit
-neutrin
+neutr
 neutrofil
 neutron
 neutron
@@ -22236,7 +22236,7 @@ novel
 novel
 noviciát
 noviciát
-novin
+nov
 nov
 novinek
 novink
@@ -22991,7 +22991,7 @@ nízkým
 nízkými
 níž
 níže
-nížin
+níž
 níž
 nížinn
 nížinn
@@ -23268,9 +23268,9 @@ obhájkyn
 obhájkyn
 obi
 obilka
-obilnin
 obiln
-obilovin
+obiln
+obilov
 obilov
 obilí
 obilím
@@ -23934,7 +23934,7 @@ občasn
 občasn
 občerstven
 občerstven
-občin
+obč
 obč
 obě
 oběd
@@ -24172,7 +24172,7 @@ odcest
 odchod
 odchode
 odchod
-odchov
+odch
 odchovance
 odchovanec
 odch
@@ -25875,7 +25875,7 @@ osel
 osemen
 osidlovac
 osidlován
-osin
+os
 osiva
 osiřel
 osla
@@ -25962,7 +25962,7 @@ osmého
 osmém
 osmý
 osmým
-osnov
+osn
 osnovn
 osnovn
 osn
@@ -26019,10 +26019,10 @@ ostroh
 ostroh
 ostrost
 ostrou
-ostrov
 ostr
 ostr
-ostre
+ostr
+ostrove
 ostrovid
 ostrovn
 ostrovn
@@ -26160,7 +26160,7 @@ otc
 otc
 otc
 otců
-otcův
+otc
 otec
 oteplen
 oteplován
@@ -26609,7 +26609,7 @@ padák
 padělán
 pahorc
 pahorek
-pahorkatin
+pahorkat
 pahorkat
 pahorkat
 pahorkat
@@ -27059,7 +27059,7 @@ pastoračn
 pastore
 pastoráln
 pastva
-pastvin
+pastv
 pastv
 pastv
 pastv
@@ -27209,7 +27209,7 @@ paže
 paži
 pažní
 paží
-pchin
+pch
 pching
 pchu
 pcháč
@@ -27497,9 +27497,9 @@ pilíře
 pilíř
 pilíř
 pilíř
-pin
+p
 ping
-pinyin
+piny
 pionýrsk
 pionýrsk
 pionýrsk
@@ -27755,7 +27755,7 @@ ples
 ples
 ples
 ples
-pletenin
+pleten
 pleten
 pleten
 plet
@@ -27826,7 +27826,7 @@ plod
 plod
 plode
 plodenstv
-plodin
+plod
 plod
 plod
 plod
@@ -27863,7 +27863,7 @@ plovouc
 plovák
 plovárn
 ploš
-plošin
+ploš
 ploš
 ploš
 ploš
@@ -28286,7 +28286,7 @@ podmaněn
 podmaršál
 podmaršálk
 podmiňuj
-podmnožin
+podmnož
 podmnož
 podmnož
 podmnož
@@ -28506,7 +28506,7 @@ podržel
 podržel
 podržuj
 podsekretáře
-podskupin
+podskup
 podskup
 podstata
 podstatn
@@ -29150,9 +29150,9 @@ poloměre
 poloměr
 poloměr
 poloos
-poloostrov
 poloostr
-poloostre
+poloostr
+poloostrove
 poloostr
 polopouštn
 polopoušt
@@ -29506,7 +29506,7 @@ populárn
 populárn
 populárn
 populárnějš
-popálenin
+popálen
 popálen
 popálen
 popát
@@ -30110,7 +30110,7 @@ potrat
 potraty
 potrat
 potrav
-potravin
+potrav
 potrav
 potrav
 potrav
@@ -30727,8 +30727,8 @@ početn
 početnějš
 počet
 počeštěn
-počin
-poče
+poč
+počine
 poč
 poč
 poč
@@ -32098,7 +32098,7 @@ proslavil
 proslavil
 proslavil
 proslavil
-proslov
+prosl
 prosl
 proslul
 proslul
@@ -32202,8 +32202,8 @@ protagonist
 protažen
 protažen
 protažen
-protein
-protee
+prote
+proteine
 prote
 protein
 prote
@@ -32417,14 +32417,14 @@ provedl
 provedl
 proved
 provenienc
-provk
-provk
-provk
+provink
+provink
+provink
 provinciál
 provinciále
 provinciáln
-provk
-provk
+provink
+provink
 provinčn
 provinčn
 provinčn
@@ -32628,7 +32628,7 @@ prut
 prut
 prut
 pruz
-pružin
+pruž
 pruž
 pruž
 pruž
@@ -32732,7 +32732,7 @@ práv
 práv
 práv
 práv
-prázdnin
+prázdn
 prázdn
 prázdn
 prázdn
@@ -33035,7 +33035,7 @@ pud
 pudy
 puk
 pukajíc
-puklin
+pukl
 pukl
 puls
 pult
@@ -35244,7 +35244,7 @@ příkop
 příkop
 příkop
 příkoř
-příkrov
+příkr
 příkr
 příkr
 příkr
@@ -35365,7 +35365,7 @@ příprav
 přípustn
 přípustn
 přírod
-přírodnin
+přírodn
 přírodn
 přírodn
 přírodn
@@ -35599,7 +35599,7 @@ příz
 příčc
 příček
 příčest
-příčin
+příč
 příč
 příč
 příč
@@ -36703,7 +36703,7 @@ rodačk
 rodech
 rodem
 rodil
-rodin
+rod
 rod
 rod
 rodinn
@@ -36875,7 +36875,7 @@ rosničk
 roste
 rostl
 rostla
-rostlin
+rostl
 rostl
 rostl
 rostlink
@@ -36943,7 +36943,7 @@ rouškou
 roušky
 roven
 roveň
-rovin
+rov
 rov
 rovinat
 rovinat
@@ -37595,7 +37595,7 @@ rudými
 rudě
 rue
 rugby
-ruin
+ru
 ruina
 ruiny
 ruinách
@@ -37699,8 +37699,8 @@ rybníček
 rybníčk
 rybníčk
 rybníčk
-rybolov
-rybole
+rybol
+rybolove
 rybol
 rybou
 rybu
@@ -37768,7 +37768,7 @@ rysy
 rysů
 rytce
 rytec
-rytin
+ryt
 ryt
 rytmem
 rytmick
@@ -38481,7 +38481,7 @@ sehrál
 sehrál
 sehrál
 sehrát
-sein
+se
 sejde
 sejdou
 sejít
@@ -38770,7 +38770,7 @@ sesuv
 sesuv
 set
 setech
-setin
+set
 set
 set
 setkaj
@@ -39093,7 +39093,7 @@ simulac
 simul
 simulátor
 simulátor
-sin
+s
 sing
 singl
 single
@@ -39438,7 +39438,7 @@ skrýv
 skulptur
 skulptur
 skupenstv
-skupin
+skup
 skup
 skup
 skupink
@@ -39662,9 +39662,9 @@ slibuj
 slibuj
 slib
 slib
-slin
+sl
 slinivk
-slitin
+slit
 slit
 slit
 slivoň
@@ -39714,7 +39714,7 @@ sloup
 sloup
 sloučen
 sloučen
-sloučenin
+sloučen
 sloučen
 sloučen
 sloučen
@@ -39744,7 +39744,7 @@ sloužíc
 sloužíc
 sloužíc
 sloužíc
-slov
+sl
 sl
 slovansk
 slovansk
@@ -39756,7 +39756,7 @@ slovansk
 slovansk
 slovansk
 sl
-sle
+slove
 slovensk
 slovensk
 slovensk
@@ -39985,7 +39985,7 @@ smrteln
 smrti
 smrtí
 smrtíc
-smrčin
+smrč
 smrč
 smutek
 smutečn
@@ -40641,8 +40641,8 @@ současn
 současn
 současn
 součet
-součin
-souče
+souč
+součine
 součinitel
 součinnost
 součinnost
@@ -40665,7 +40665,7 @@ souš
 souše
 souši
 soužit
-sov
+s
 sova
 sovy
 sovět
@@ -40709,7 +40709,7 @@ spadn
 spadnout
 spad
 spal
-spalin
+spal
 spalovac
 spalovac
 spalovac
@@ -40810,7 +40810,7 @@ spermi
 spiklenc
 spiklenc
 spiknut
-spin
+sp
 spiritualit
 spiritualit
 spirituáln
@@ -41382,7 +41382,7 @@ srostl
 srostl
 srostl
 srostl
-srov
+sr
 srovnal
 srovn
 srovnateln
@@ -41525,7 +41525,7 @@ staničn
 stann
 stann
 stan
-stanov
+stan
 stanoven
 stanoven
 stanoven
@@ -42674,7 +42674,7 @@ subkontinent
 subkontinent
 subkultur
 suborbitáln
-subprovk
+subprovink
 subsaharsk
 subsp
 substanc
@@ -42760,7 +42760,7 @@ superlehk
 supermarket
 supermarket
 supermarket
-supernov
+supern
 supern
 supern
 superpohár
@@ -42772,7 +42772,7 @@ supertiebreak
 suplent
 supérieur
 sur
-surovin
+surov
 surov
 surov
 surov
@@ -43712,7 +43712,7 @@ tektonick
 tektonick
 tektonick
 tektonik
-tekutin
+tekut
 tekut
 tekut
 tekut
@@ -44140,7 +44140,7 @@ tiskem
 tiskl
 tiskne
 tisknout
-tiskovin
+tiskov
 tiskov
 tisk
 tisk
@@ -44202,7 +44202,7 @@ tkalcovn
 tkalcovsk
 tkalcovstv
 tkalc
-tkanin
+tkan
 tkan
 tkan
 tkan
@@ -44395,7 +44395,7 @@ toxick
 toxick
 toxick
 toxick
-toxin
+tox
 tox
 tox
 točil
@@ -44548,7 +44548,7 @@ trat
 trat
 traum
 trav
-travin
+trav
 trav
 trav
 travnat
@@ -44612,7 +44612,7 @@ trezor
 trh
 trhav
 trhem
-trhlin
+trhl
 trhl
 trhl
 trhové
@@ -45421,7 +45421,7 @@ třetihorn
 třetihorn
 třetihor
 třetilig
-třetin
+třet
 třet
 třet
 třet
@@ -45492,7 +45492,7 @@ třípatr
 třípodlažn
 tříset
 tříset
-tříslovin
+tříslov
 tříslov
 tříčlenn
 tříčlenn
@@ -46277,7 +46277,7 @@ usadit
 usadí
 usazen
 usazen
-usazenin
+usazen
 usazen
 usazen
 usazen
@@ -46657,7 +46657,7 @@ uzdrav
 uzel
 uzlech
 uzlem
-uzlin
+uzl
 uzl
 uzl
 uzlu
@@ -47031,7 +47031,7 @@ vdan
 vdan
 vdechnut
 vdechován
-vdov
+vd
 vd
 vdovec
 vd
@@ -47162,7 +47162,7 @@ velitelstv
 velitel
 velitel
 velitel
-veličin
+velič
 velič
 velič
 velič
@@ -47256,7 +47256,7 @@ vemeník
 ven
 venezuelsk
 venezuelsk
-venkov
+venk
 venk
 venkovan
 venkovn
@@ -47606,7 +47606,7 @@ visut
 visut
 visí
 visíc
-vitamin
+vitam
 vitam
 vitamín
 vitamín
@@ -48423,7 +48423,7 @@ vstřícn
 vsí
 vsích
 vsítil
-vteřin
+vteř
 vteř
 vtip
 vtipn
@@ -50690,7 +50690,7 @@ výbuche
 výbuch
 výbuch
 výbuch
-výbušnin
+výbušn
 výbušn
 výbušn
 výbušn
@@ -51171,7 +51171,7 @@ výuk
 výuku
 výuky
 vývar
-vývin
+výv
 výv
 vývod
 vývod
@@ -51274,7 +51274,7 @@ výšce
 výše
 výšek
 výši
-výšin
+výš
 výš
 výš
 výš
@@ -53341,7 +53341,7 @@ zelí
 zem
 zeman
 zemi
-zemin
+zem
 zem
 zem
 zem
@@ -53574,7 +53574,7 @@ zjišť
 zjišťován
 zjišťuj
 zjišťuj
-zkamenělin
+zkameněl
 zkameněl
 zklaman
 zklamán
@@ -53770,14 +53770,14 @@ zlom
 zlom
 zlom
 zlou
-zločin
+zloč
 zločinc
 zločinc
 zločinc
 zločinec
 zloč
 zločineck
-zloče
+zločine
 zloč
 zloč
 zloč
@@ -55027,7 +55027,7 @@ zákroke
 zákrok
 zákrok
 zákrok
-zákrov
+zákr
 zákulis
 záležel
 záležitost
@@ -55519,7 +55519,7 @@ zřizován
 zřizován
 zřizuj
 zřizuj
-zřícenin
+zřícen
 zřícen
 zřícen
 zřícen
@@ -56466,7 +56466,7 @@ zůstáv
 čile
 čili
 čilý
-čin
+č
 činech
 činel
 činem
@@ -56687,7 +56687,7 @@ zůstáv
 čtvrtfinál
 čtvrtfinál
 čtvrti
-čtvrtin
+čtvrt
 čtvrt
 čtvrt
 čtvrt
@@ -57606,7 +57606,7 @@ zůstáv
 štěpen
 štěpn
 štěp
-štěrbin
+štěrb
 štěrb
 štěrb
 štěrb
@@ -57629,7 +57629,7 @@ zůstáv
 šumavsk
 šumu
 šunka
-šupin
+šup
 šup
 šupinovit
 šup
@@ -57749,7 +57749,7 @@ zůstáv
 ťie
 ťien
 ťienu
-ťin
+ť
 ťing
 ťinga
 ťinu
@@ -57931,7 +57931,7 @@ zůstáv
 živil
 živil
 živil
-živin
+živ
 živ
 živ
 živit
