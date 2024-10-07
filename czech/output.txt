@@ -405,7 +405,7 @@ al
 ala
 alb
 alba
-albatr
+albatros
 albatros
 albatros
 albech
@@ -3164,7 +3164,7 @@ chan
 chan
 chanát
 chanát
-cha
+chaos
 chaos
 chaotick
 charakter
@@ -27678,7 +27678,7 @@ platn
 platn
 plat
 plat
-platyphyll
+platyphyllos
 plat
 plat
 plav
@@ -34095,7 +34095,7 @@ přenesl
 přenesl
 přenesl
 přenocován
-přen
+přenos
 přenos
 přenosn
 přenosn
@@ -35310,7 +35310,7 @@ příměstsk
 příměs
 příměř
 příměř
-přín
+přínos
 přínos
 přínosn
 přínos
@@ -47588,7 +47588,7 @@ vir
 vir
 vir
 vir
-virtu
+virtuos
 virtuáln
 virtuáln
 virtuáln
