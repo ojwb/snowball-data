@@ -167,7 +167,7 @@ aerosol
 af
 afarensis
 afektivn
-affair
+affaires
 afghánsk
 afghánsk
 afinit
@@ -2035,7 +2035,7 @@ blok
 bludisk
 bludn
 blu
-blu
+blues
 blues
 blues
 blán
@@ -3772,7 +3772,7 @@ comun
 con
 continu
 control
-cooki
+cookies
 cordat
 core
 corpus
@@ -4529,7 +4529,7 @@ dešť
 dešťů
 dharm
 di
-diabet
+diabetes
 diabet
 diagnostik
 diagnostick
@@ -9108,7 +9108,7 @@ hinduistick
 hinduistick
 hinduist
 hip
-hippi
+hippies
 his
 hispánsk
 histoir
@@ -13042,7 +13042,7 @@ klásk
 klásk
 klásk
 klást
-kláv
+kláves
 kláves
 klávesist
 klávesist
@@ -31018,7 +31018,7 @@ praktikujíc
 praktik
 praktik
 praktik
-pral
+prales
 prales
 prales
 prales
@@ -31456,7 +31456,7 @@ procentn
 procent
 procentuáln
 procent
-prok
+proces
 proces
 proces
 procesn
@@ -33608,7 +33608,7 @@ předmět
 předmět
 předmět
 předmět
-předn
+přednes
 přednesl
 přednesl
 přednes
@@ -38309,7 +38309,7 @@ schůzk
 schůz
 sci
 scienk
-scienk
+sciences
 scop
 scén
 scén
@@ -38651,7 +38651,7 @@ sepsán
 sepět
 sequel
 seri
-seri
+series
 seriál
 seriál
 seriál
@@ -39773,7 +39773,7 @@ slovensk
 slovensk
 slovensk
 slovensk
-sl
+sloves
 sloves
 sloves
 slovesnost
@@ -42213,7 +42213,7 @@ studi
 studi
 studi
 studi
-studi
+studies
 studi
 studijn
 studijn
@@ -57980,7 +57980,7 @@ k
 život
 živo
 živouc
-živok
+živočich
 živočich
 živočich
 živočich
