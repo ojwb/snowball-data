@@ -336,7 +336,7 @@ aktivn
 aktivn
 aktivn
 aktivn
-aktivním
+aktivn
 aktivn
 aktivnějš
 aktivovan
@@ -359,7 +359,7 @@ aktuáln
 aktuáln
 aktuáln
 aktuáln
-aktuálním
+aktuáln
 aktuáln
 akty
 aktér
@@ -1015,7 +1015,7 @@ armádn
 armádn
 armádn
 armádn
-armádním
+armádn
 armád
 armád
 armád
@@ -2540,7 +2540,7 @@ budouc
 budouc
 budouc
 budouc
-budoucím
+budouc
 bud
 bud
 budoval
@@ -3073,7 +3073,7 @@ centráln
 centráln
 centráln
 centráln
-centrálním
+centráln
 centráln
 centrál
 centrál
@@ -3726,7 +3726,7 @@ civiln
 civiln
 civiln
 civiln
-civilním
+civiln
 civil
 cizink
 cizink
@@ -4171,7 +4171,7 @@ definic
 definitivn
 definitivn
 definitivn
-definitivním
+definitivn
 definitivn
 definičn
 definoval
@@ -4886,7 +4886,7 @@ dnešn
 dnešn
 dnešn
 dnešn
-dnešním
+dnešn
 dni
 dno
 dnu
@@ -5389,7 +5389,7 @@ domác
 domác
 domác
 domác
-domácím
+domác
 domáh
 domén
 domén
@@ -5538,7 +5538,7 @@ dopravn
 dopravn
 dopravn
 dopravn
-dopravním
+dopravn
 dopravn
 doprav
 doprav
@@ -5632,7 +5632,7 @@ dosavadn
 dosavadn
 dosavadn
 dosavadn
-dosavadním
+dosavadn
 dosazen
 dosazen
 dosazen
@@ -5909,7 +5909,7 @@ dožil
 dožit
 doživotn
 doživotn
-doživotním
+doživotn
 doživotn
 doživot
 dožít
@@ -6180,7 +6180,7 @@ duchovn
 duchovn
 duchovn
 duchovn
-duchovním
+duchovn
 duchovn
 duch
 duchu
@@ -6800,7 +6800,7 @@ dřívějš
 dřívějš
 dřívějš
 dřívějš
-dřívějším
+dřívějš
 důchod
 důchodk
 důchodk
@@ -8004,7 +8004,7 @@ finančn
 finančník
 finančn
 finančn
-finančním
+finančn
 finančn
 finsko
 finsko
@@ -8167,7 +8167,7 @@ formáln
 formáln
 formáln
 formáln
-formálním
+formáln
 formáln
 formám
 formát
@@ -8555,7 +8555,7 @@ generáln
 generáln
 generáln
 generáln
-generálním
+generáln
 generál
 generál
 generálplukovník
@@ -8685,7 +8685,7 @@ globáln
 globáln
 globáln
 globáln
-globálním
+globáln
 globáln
 glukóz
 glukóz
@@ -9234,7 +9234,7 @@ hlavn
 hlavn
 hlavn
 hlavn
-hlavním
+hlavn
 hlavn
 hlavolam
 hlavonožk
@@ -9803,7 +9803,7 @@ hostuj
 hostujíc
 hostujíc
 hostujíc
-hostujícím
+hostujíc
 hosty
 hosté
 hostí
@@ -9972,7 +9972,7 @@ hraničn
 hraničn
 hraničn
 hraničn
-hraničním
+hraničn
 hranič
 hranol
 hranol
@@ -10186,7 +10186,7 @@ hudebník
 hudebník
 hudebn
 hudebn
-hudebním
+hudebn
 hudebn
 hugenot
 humanism
@@ -10935,7 +10935,7 @@ intenzivn
 intenzivn
 intenzivn
 intenzivn
-intenzivním
+intenzivn
 intenzivn
 intenzivněj
 intenzivnějš
@@ -12563,7 +12563,7 @@ katastráln
 katastráln
 katastráln
 katastráln
-katastrálním
+katastráln
 katastráln
 katastr
 katechet
@@ -13446,7 +13446,7 @@ komerčn
 komerčn
 komerčn
 komerčn
-komerčním
+komerčn
 komerčn
 komet
 komet
@@ -13831,7 +13831,7 @@ konkrétn
 konkrétn
 konkrétn
 konkrétn
-konkrétním
+konkrétn
 konkrétn
 konkrétněj
 konkubín
@@ -14050,7 +14050,7 @@ konzervativn
 konzervativn
 konzervativn
 konzervativn
-konzervativním
+konzervativn
 konzervativn
 konzervativnějš
 konzervatoř
@@ -15087,7 +15087,7 @@ kulturn
 kulturn
 kulturn
 kulturn
-kulturním
+kulturn
 kulturn
 kultur
 kultur
@@ -17254,7 +17254,7 @@ masivn
 masivn
 masivn
 masivn
-masivním
+masivn
 masivn
 masiv
 masiv
@@ -17676,7 +17676,7 @@ mezinárodn
 mezinárodn
 mezinárodn
 mezinárodn
-mezinárodním
+mezinárodn
 mezinárodn
 meziplanetárn
 meziprodukt
@@ -18038,7 +18038,7 @@ mladš
 mladš
 mladš
 mladš
-mladším
+mladš
 mld
 mlet
 mlha
@@ -18270,7 +18270,7 @@ modern
 modern
 modern
 modern
-moderním
+modern
 modern
 modernějš
 modernějš
@@ -20664,7 +20664,7 @@ nejlepš
 nejlepš
 nejlepš
 nejlepš
-nejlepším
+nejlepš
 nejlevnějš
 nejlidnatějš
 nejlidnatějš
@@ -20773,7 +20773,7 @@ nejstarš
 nejstarš
 nejstarš
 nejstarš
-nejstarším
+nejstarš
 nejsvětějš
 nejteplejš
 nejteplejš
@@ -20799,7 +20799,7 @@ nejvyšš
 nejvyšš
 nejvyšš
 nejvyšš
-nejvyšším
+nejvyšš
 nejvzdálenějš
 nejvzácnějš
 nejvážnějš
@@ -20827,7 +20827,7 @@ největš
 největš
 největš
 největš
-největším
+největš
 nejzachovalejš
 nejzajímavějš
 nejzajímavějš
@@ -22713,7 +22713,7 @@ národn
 národn
 národn
 národn
-národním
+národn
 národn
 národopisn
 národ
@@ -23124,7 +23124,7 @@ obchodník
 obchodník
 obchodn
 obchodn
-obchodním
+obchodn
 obchodn
 obchodoval
 obchodoval
@@ -24926,7 +24926,7 @@ oficiáln
 oficiáln
 oficiáln
 oficiáln
-oficiálním
+oficiáln
 oficiáln
 og
 ohebné
@@ -25109,7 +25109,7 @@ okresn
 okresn
 okresn
 okresn
-okresním
+okresn
 okres
 okres
 okres
@@ -25416,7 +25416,7 @@ operačn
 operačn
 operačn
 operačn
-operačním
+operačn
 operačn
 operet
 operet
@@ -28668,7 +28668,7 @@ pohlavn
 pohlavn
 pohlavn
 pohlavn
-pohlavním
+pohlavn
 pohlavn
 pohlav
 pohlav
@@ -29078,7 +29078,7 @@ policejn
 policejn
 policejn
 policejn
-policejním
+policejn
 polici
 polici
 policist
@@ -29780,7 +29780,7 @@ posledn
 posledn
 posledn
 posledn
-posledním
+posledn
 posledn
 poslouchal
 poslouch
@@ -30548,7 +30548,7 @@ pozdějš
 pozdějš
 pozdějš
 pozdějš
-pozdějším
+pozdějš
 pozemc
 pozemek
 pozemk
@@ -30583,7 +30583,7 @@ pozitivn
 pozitivn
 pozitivn
 pozitivn
-pozitivním
+pozitivn
 pozitivn
 pozičn
 pozlacen
@@ -30976,7 +30976,7 @@ pracovník
 pracovník
 pracovn
 pracovn
-pracovním
+pracovn
 pracovn
 pracuj
 pracuj
@@ -32723,7 +32723,7 @@ právník
 právník
 právn
 právn
-právním
+právn
 právn
 práv
 právoplatn
@@ -33508,7 +33508,7 @@ předchoz
 předchoz
 předchoz
 předchoz
-předchozím
+předchoz
 předcházejíc
 předcházejíc
 předcházejíc
@@ -35371,7 +35371,7 @@ přírodn
 přírodn
 přírodn
 přírodn
-přírodním
+přírodn
 přírodn
 přírodopis
 přírod
@@ -35723,7 +35723,7 @@ původn
 původn
 původn
 původn
-původním
+původn
 původn
 původ
 q
@@ -35772,7 +35772,7 @@ radikáln
 radikáln
 radikáln
 radikáln
-radikálním
+radikáln
 radikáln
 radikálnějš
 radikál
@@ -36902,7 +36902,7 @@ rostouc
 rostouc
 rostouc
 rostouc
-rostoucím
+rostouc
 rot
 rota
 rotak
@@ -37727,7 +37727,7 @@ rychle
 rychlej
 rychlejš
 rychlejš
-rychlejším
+rychlejš
 rychlobruslař
 rychlobruslařk
 rychlobruslařsk
@@ -38811,7 +38811,7 @@ severn
 severn
 severn
 severn
-severním
+severn
 severn
 severněj
 severnějš
@@ -38867,7 +38867,7 @@ sexuáln
 sexuáln
 sexuáln
 sexuáln
-sexuálním
+sexuáln
 sexuáln
 sexy
 sezen
@@ -39583,7 +39583,7 @@ slavnostn
 slavnostn
 slavnostn
 slavnostn
-slavnostním
+slavnostn
 slavnostn
 slavnost
 slavn
@@ -39871,7 +39871,7 @@ slunečn
 slunečn
 slunečn
 slunečn
-slunečním
+slunečn
 slunn
 slunn
 slunovrat
@@ -40281,7 +40281,7 @@ sociáln
 sociáln
 sociáln
 sociáln
-sociálním
+sociáln
 sociáln
 sociálnědemokratick
 sodnéh
@@ -40525,7 +40525,7 @@ sousedn
 sousedn
 sousedn
 sousedn
-sousedním
+sousedn
 sousedstv
 soused
 soused
@@ -41164,7 +41164,7 @@ sportovn
 sportovn
 sportovn
 sportovn
-sportovním
+sportovn
 sportovn
 sport
 sport
@@ -41272,7 +41272,7 @@ správn
 správn
 správn
 správn
-správním
+správn
 správn
 správn
 správn
@@ -41507,7 +41507,7 @@ standardn
 standardn
 standardn
 standardn
-standardním
+standardn
 standardn
 standard
 standard
@@ -41663,7 +41663,7 @@ starš
 starš
 starš
 starš
-starším
+starš
 statc
 stat
 statek
@@ -41736,7 +41736,7 @@ stavebn
 stavebník
 stavebn
 stavebn
-stavebním
+stavebn
 stavebn
 stav
 stav
@@ -42360,7 +42360,7 @@ státník
 státník
 státn
 státn
-státním
+státn
 státoprávn
 státoprávn
 státoprávn
@@ -43699,7 +43699,7 @@ tehdejš
 tehdejš
 tehdejš
 tehdejš
-tehdejším
+tehdejš
 tehdy
 teho
 tekla
@@ -43755,7 +43755,7 @@ televizn
 televizn
 televizn
 televizn
-televizním
+televizn
 televizor
 televizor
 televiz
@@ -44421,7 +44421,7 @@ tradičn
 tradičn
 tradičn
 tradičn
-tradičním
+tradičn
 tradičn
 traduj
 trafik
@@ -44596,7 +44596,7 @@ trestn
 trestn
 trestn
 trestn
-trestním
+trestn
 trestn
 trestn
 trestn
@@ -45431,7 +45431,7 @@ třet
 třet
 třet
 třet
-třetím
+třet
 třezalk
 třeň
 třešeň
@@ -47078,7 +47078,7 @@ vedouc
 vedouc
 vedouc
 vedouc
-vedoucím
+vedouc
 vedut
 veganstv
 vegetak
@@ -47737,7 +47737,7 @@ vlastník
 vlastník
 vlastn
 vlastn
-vlastním
+vlastn
 vlastn
 vlastněn
 vlastněn
@@ -47859,7 +47859,7 @@ vládnouc
 vládnouc
 vládnouc
 vládnouc
-vládnoucím
+vládnouc
 vládnout
 vládnut
 vládn
@@ -47911,7 +47911,7 @@ vnitřn
 vnitřn
 vnitřn
 vnitřn
-vnitřním
+vnitřn
 vnitřn
 vnouč
 vnouč
@@ -47948,7 +47948,7 @@ vnějš
 vnějš
 vnějš
 vnějš
-vnějším
+vnějš
 vod
 voda
 voda
@@ -48082,7 +48082,7 @@ volebn
 volebn
 volebn
 volebn
-volebním
+volebn
 volejbal
 volejbal
 volejbal
@@ -50722,7 +50722,7 @@ východn
 východn
 východn
 východn
-východním
+východn
 východn
 východněj
 východ
@@ -51926,7 +51926,7 @@ zahraničn
 zahraničn
 zahraničn
 zahraničn
-zahraničním
+zahraničn
 zahraničn
 zahranič
 zahranič
@@ -53156,7 +53156,7 @@ zdejš
 zdejš
 zdejš
 zdejš
-zdejším
+zdejš
 zdi
 zdiv
 zdiv
@@ -53213,7 +53213,7 @@ zdravotn
 zdravotník
 zdravotn
 zdravotn
-zdravotním
+zdravotn
 zdravotn
 zdrav
 zdrav
@@ -54683,7 +54683,7 @@ zvláštn
 zvláštn
 zvláštn
 zvláštn
-zvláštním
+zvláštn
 zvláštn
 zvlásk
 zvlášť
@@ -54977,7 +54977,7 @@ základn
 základn
 základn
 základn
-základním
+základn
 základn
 základ
 základ
@@ -55122,7 +55122,7 @@ západn
 západn
 západn
 západn
-západním
+západn
 západn
 západněj
 západ
@@ -55202,7 +55202,7 @@ zásadn
 zásadn
 zásadn
 zásadn
-zásadním
+zásadn
 zásadn
 zásad
 zásad
@@ -55879,7 +55879,7 @@ zůstáv
 ústavn
 ústavn
 ústavn
-ústavním
+ústavn
 ústavn
 ústavodárn
 ústavodárn
@@ -57818,7 +57818,7 @@ k
 železničn
 železničn
 železničn
-železničním
+železničn
 železničář
 železn
 železn
@@ -57963,7 +57963,7 @@ k
 životn
 životn
 životn
-životním
+životn
 životn
 životopis
 životopis
