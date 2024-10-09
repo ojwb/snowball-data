@@ -8514,7 +8514,7 @@ gastronomi
 gastronomi
 gay
 gaye
-gay
+gayov
 gayů
 gel
 gel
@@ -18942,7 +18942,7 @@ myšlen
 myš
 myš
 mzda
-mzd
+mzdov
 mzdu
 mzdy
 má
@@ -27209,7 +27209,7 @@ pah
 pah
 pažn
 paž
-pch
+pchin
 pching
 pchu
 pcháč
@@ -38260,8 +38260,8 @@ schopn
 schopn
 schopn
 schoval
-sch
-sch
+schov
+schov
 schováv
 schránk
 schránek
@@ -45458,8 +45458,8 @@ třináct
 třináct
 třináct
 třináct
-třt
-třt
+třtin
+třtin
 tří
 tříd
 tříd
