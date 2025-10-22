@@ -2144,7 +2144,7 @@ boj
 bojisk
 bojisk
 bojisk
-bojištěm
+bojisk
 bojkot
 bojkot
 bojoval
@@ -2660,7 +2660,7 @@ bydlen
 bydlet
 bydlisk
 bydlisk
-bydlištěm
+bydlisk
 bydl
 byl
 byl
@@ -4520,7 +4520,7 @@ deštn
 deštn
 desk
 desk
-deštěm
+desk
 dešť
 dešť
 dešť
@@ -6647,7 +6647,7 @@ děj
 děj
 děj
 dějisk
-dějištěm
+dějisk
 děj
 děj
 děj
@@ -9415,7 +9415,7 @@ hnízd
 hnízd
 hnízd
 hnízdisk
-hnízdištěm
+hnízdisk
 hnízdišť
 hnízdn
 hnízd
@@ -9936,7 +9936,7 @@ hradit
 hradisk
 hradištn
 hradisk
-hradištěm
+hradisk
 hradišť
 hradn
 hradn
@@ -10426,7 +10426,7 @@ hřiven
 hřisk
 hřisk
 hřisk
-hřištěm
+hřisk
 hřišť
 hřích
 hřích
@@ -11583,7 +11583,7 @@ jednán
 jedn
 jedn
 jedněch
-jedněm
+jedn
 jedn
 jed
 jedouc
@@ -11700,7 +11700,7 @@ jevisk
 jevištn
 jevisk
 jevisk
-jevištěm
+jevisk
 jev
 jev
 jev
@@ -13179,7 +13179,7 @@ kněh
 kněh
 kněžisk
 kněžisk
-kněžištěm
+kněžisk
 kněžn
 kněžn
 kněžn
@@ -14114,7 +14114,7 @@ končit
 konč
 končíc
 kon
-koněm
+kon
 koněspřežn
 konšel
 konšel
@@ -15935,7 +15935,7 @@ letisk
 letištn
 letisk
 letisk
-letištěm
+letisk
 letišť
 letk
 letk
@@ -19658,7 +19658,7 @@ nalezen
 nalezen
 nalezisk
 nalezisk
-nalezištěm
+nalezisk
 nalezišť
 nalezl
 nalezl
@@ -22855,7 +22855,7 @@ nástupc
 nástup
 nástupisk
 nástupisk
-nástupištěm
+nástupisk
 nástupišť
 nástupkyn
 nástupkyn
@@ -24964,7 +24964,7 @@ ohniv
 ohnisk
 ohnut
 ohn
-ohněm
+ohn
 ohodnocen
 ohodnocen
 ohodnotil
@@ -27997,7 +27997,7 @@ plák
 pláň
 plásk
 plásk
-pláštěm
+plásk
 plášť
 pláž
 pláh
@@ -28817,7 +28817,7 @@ pohřb
 pohřeb
 pohřebisk
 pohřebisk
-pohřebištěm
+pohřebisk
 pohřebišť
 pohřebn
 pohřebn
@@ -30958,7 +30958,7 @@ prac
 pracovisk
 pracovisk
 pracovisk
-pracovištěm
+pracovisk
 pracovišť
 pracovn
 pracovnik
@@ -35698,7 +35698,7 @@ působiv
 působiv
 působisk
 působisk
-působištěm
+působisk
 působnost
 působnost
 působnost
@@ -36736,7 +36736,7 @@ rodič
 rodič
 rodisk
 rodisk
-rodištěm
+rodisk
 rodn
 rodn
 rodn
@@ -38234,7 +38234,7 @@ schod
 schodek
 schodisk
 schodisk
-schodištěm
+schodisk
 schodišť
 schod
 schod
@@ -41552,7 +41552,7 @@ stanovit
 stanovisk
 stanovisk
 stanovisk
-stanovištěm
+stanovisk
 stanovišť
 stan
 stanovován
@@ -42264,7 +42264,7 @@ stupnik
 stupnic
 stupn
 stupn
-stupněm
+stupn
 stupňovit
 stupňuj
 stupň
@@ -43317,7 +43317,7 @@ sídlisk
 sídlištn
 sídlisk
 sídlisk
-sídlištěm
+sídlisk
 sídlišť
 sídl
 sídl
@@ -45385,7 +45385,7 @@ těžil
 těžil
 těžit
 těžisk
-těžištěm
+těžisk
 těžk
 těžkost
 těžk
@@ -51502,7 +51502,7 @@ věznik
 věznik
 věznic
 vězn
-vězněm
+vězn
 vězněn
 vězněn
 vězněn
@@ -53441,7 +53441,7 @@ zesílil
 zesílit
 zet
 zet
-zetěm
+zet
 zevnitř
 zevn
 zevn
@@ -55949,7 +55949,7 @@ zůstáv
 útočil
 útočit
 útočisk
-útočištěm
+útočisk
 útočn
 útočn
 útočn
