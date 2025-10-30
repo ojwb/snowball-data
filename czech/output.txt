@@ -6524,7 +6524,7 @@ démon
 démon
 démon
 dévanágar
-déšť
+désk
 dík
 dík
 dík
@@ -9416,7 +9416,7 @@ hnízd
 hnízd
 hnízdisk
 hnízdisk
-hnízdišť
+hnízdisk
 hnízdn
 hnízd
 hnízd
@@ -9937,7 +9937,7 @@ hradisk
 hradištn
 hradisk
 hradisk
-hradišť
+hradisk
 hradn
 hradn
 hradn
@@ -10427,7 +10427,7 @@ hřisk
 hřisk
 hřisk
 hřisk
-hřišť
+hřisk
 hřích
 hřích
 hřích
@@ -15559,7 +15559,7 @@ laboratoř
 labourist
 labut
 labut
-labuť
+labut
 labyrint
 labyrint
 lachtan
@@ -15936,7 +15936,7 @@ letištn
 letisk
 letisk
 letisk
-letišť
+letisk
 letk
 letk
 letk
@@ -19659,7 +19659,7 @@ nalezen
 nalezisk
 nalezisk
 nalezisk
-nalezišť
+nalezisk
 nalezl
 nalezl
 nalezl
@@ -20334,7 +20334,7 @@ neblah
 neb
 neboj
 nebol
-neboť
+nebot
 nebral
 nebránil
 nebránil
@@ -20377,7 +20377,7 @@ nechtěl
 nechtěl
 nechtěn
 nechtěn
-nechuť
+nechut
 nechvaln
 nechyb
 nechyběl
@@ -20388,7 +20388,7 @@ nechával
 nechával
 nechával
 necháv
-nechť
+necht
 necítil
 necít
 nedaj
@@ -22856,7 +22856,7 @@ nástup
 nástupisk
 nástupisk
 nástupisk
-nástupišť
+nástupisk
 nástupkyn
 nástupkyn
 nástupnick
@@ -23871,7 +23871,7 @@ obzor
 obzor
 obzor
 obzvlásk
-obzvlášť
+obzvlásk
 obálk
 obálek
 obálk
@@ -23957,8 +23957,8 @@ obětuj
 obět
 oběšen
 oběšen
-oběť
-oběť
+obět
+obět
 oběžn
 oběžn
 oběžn
@@ -24889,7 +24889,7 @@ odznak
 odznak
 odznak
 odíván
-odúmrť
+odúmrt
 odčítán
 oděn
 oděv
@@ -26748,7 +26748,7 @@ pamětn
 pamětn
 pamětník
 pamět
-paměť
+pamět
 paměť
 paměť
 paměť
@@ -26946,7 +26946,7 @@ parkovak
 parkovak
 parkovisk
 parkovisk
-parkovišť
+parkovisk
 park
 park
 parkován
@@ -27366,7 +27366,7 @@ perut
 peruánsk
 peruánsk
 peruánsk
-peruť
+perut
 per
 perzekuk
 perzekuk
@@ -27430,7 +27430,7 @@ pečetidl
 pečetn
 pečet
 pečet
-pečeť
+pečet
 pečiv
 pečiv
 pečliv
@@ -27998,7 +27998,7 @@ pláň
 plásk
 plásk
 plásk
-plášť
+plásk
 pláž
 pláh
 pláh
@@ -28818,7 +28818,7 @@ pohřeb
 pohřebisk
 pohřebisk
 pohřebisk
-pohřebišť
+pohřebisk
 pohřebn
 pohřebn
 pohřebn
@@ -30274,7 +30274,7 @@ pouštn
 pousk
 pousk
 pousk
-poušť
+pousk
 pouť
 použij
 použijem
@@ -30959,7 +30959,7 @@ pracovisk
 pracovisk
 pracovisk
 pracovisk
-pracovišť
+pracovisk
 pracovn
 pracovnik
 pracovnik
@@ -31032,7 +31032,7 @@ pramen
 pramen
 pramen
 pramenisk
-pramenišť
+pramenisk
 pramenn
 pramen
 pramen
@@ -35171,7 +35171,7 @@ příchoh
 příchoh
 příchoh
 příchut
-příchuť
+příchut
 přídavek
 přídavk
 přídavn
@@ -35962,7 +35962,7 @@ rašel
 rašelinisk
 rašelinisk
 rašelinisk
-rašelinišť
+rašelinisk
 rašelinn
 rašelinn
 rašel
@@ -37605,7 +37605,7 @@ rukavic
 rukavik
 rukojet
 rukojet
-rukojeť
+rukojet
 rukojm
 rukojm
 rukopis
@@ -38235,7 +38235,7 @@ schodek
 schodisk
 schodisk
 schodisk
-schodišť
+schodisk
 schod
 schod
 school
@@ -41055,7 +41055,7 @@ spolk
 spolk
 spolk
 spolk
-spoločnosť
+spoločnost
 spol
 spoluautor
 spoluautor
@@ -41156,7 +41156,7 @@ sportovc
 sportovc
 sportovec
 sportovisk
-sportovišť
+sportovisk
 sportovkyn
 sportovkyn
 sportovn
@@ -41205,7 +41205,7 @@ spousk
 spouštěk
 spouštěn
 spouštět
-spoušť
+spousk
 spočít
 spočívaj
 spočívajík
@@ -41553,7 +41553,7 @@ stanovisk
 stanovisk
 stanovisk
 stanovisk
-stanovišť
+stanovisk
 stan
 stanovován
 stanovuj
@@ -43318,7 +43318,7 @@ sídlištn
 sídlisk
 sídlisk
 sídlisk
-sídlišť
+sídlisk
 sídl
 sídl
 sídl
@@ -54686,7 +54686,7 @@ zvláštn
 zvláštn
 zvláštn
 zvlásk
-zvlášť
+zvlásk
 zvnějšk
 zvolal
 zvolen
@@ -55385,7 +55385,7 @@ závěs
 závěs
 záv
 závět
-závěť
+závět
 zázem
 zázem
 záznam
