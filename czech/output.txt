@@ -2360,7 +2360,7 @@ bratrank
 bratrank
 bratrank
 bratranc
-bratranec
+bratrank
 bratr
 bratr
 bratr
@@ -2788,7 +2788,7 @@ býk
 býložravk
 býložravk
 býložravc
-býložravec
+býložravk
 býložrav
 býložrav
 být
@@ -2846,7 +2846,7 @@ běh
 běžk
 běžk
 běžc
-běžec
+běžk
 běžeck
 běžeck
 běžeck
@@ -3298,7 +3298,7 @@ chlapk
 chlapk
 chlapc
 chlapc
-chlapec
+chlapk
 chlapeck
 chlapeck
 chlapeck
@@ -3354,7 +3354,7 @@ chodk
 chodk
 chodc
 chodeb
-chodec
+chodk
 chod
 chodidel
 chodidl
@@ -3519,7 +3519,7 @@ chu
 chua
 chuang
 chudob
-chudobinec
+chudobink
 chudob
 chudob
 chudob
@@ -3733,7 +3733,7 @@ cizink
 cizink
 cizinc
 cizinc
-cizinec
+cizink
 cizineck
 cih
 cih
@@ -5593,7 +5593,7 @@ dorah
 dorost
 dorostenk
 dorostenc
-dorostenec
+dorostenk
 dorosteneck
 dorosteneck
 dorost
@@ -5984,7 +5984,7 @@ drastick
 dravk
 dravk
 dravc
-dravec
+dravk
 drav
 drav
 drav
@@ -6262,7 +6262,7 @@ dvakrát
 dvanáct
 dvanáct
 dvanáctilet
-dvanáctiválec
+dvanáctiválk
 dvanáctkrát
 dvanáctník
 dvanáct
@@ -6326,7 +6326,7 @@ dvork
 dvork
 dvork
 dvorc
-dvorec
+dvork
 dvor
 dvor
 dvork
@@ -6394,7 +6394,7 @@ dvoustrann
 dvoutýdenn
 dvoutřídn
 dvouválc
-dvouválec
+dvouválk
 dvoučlenn
 dvouřad
 dvořan
@@ -9055,7 +9055,7 @@ herk
 herk
 herc
 herc
-herec
+herk
 hereck
 hereck
 hereck
@@ -9283,7 +9283,7 @@ hliněn
 hlodavk
 hlodavk
 hlodavc
-hlodavec
+hlodavk
 hloh
 hloubk
 hloubek
@@ -9699,7 +9699,7 @@ horolezk
 horolezk
 horolezk
 horolezc
-horolezec
+horolezk
 horolezeck
 horolezeck
 horolezeck
@@ -9778,7 +9778,7 @@ hostink
 hostink
 hostink
 hostinc
-hostinec
+hostink
 hostinsk
 hostinsk
 host
@@ -9877,7 +9877,7 @@ how
 hoľ
 hořk
 hoř
-hořec
+hořk
 hořen
 hořet
 hořečnat
@@ -10029,7 +10029,7 @@ hrdost
 hrd
 hrd
 hrnk
-hrnec
+hrnk
 hrnčířstv
 hrob
 hrobk
@@ -11277,7 +11277,7 @@ jakýmkoliv
 jakýms
 jakýs
 jalovk
-jalovec
+jalovk
 jalovic
 jam
 jamajsk
@@ -11356,7 +11356,7 @@ jazyk
 jazyk
 jazyk
 jazyk
-jazykovědec
+jazykovědk
 jazykověd
 jazyk
 jazyk
@@ -11405,7 +11405,7 @@ jedink
 jedink
 jedinc
 jedinc
-jedinec
+jedink
 jedinečnost
 jedinečnost
 jedinečn
@@ -11542,7 +11542,7 @@ jednotlivk
 jednotlivk
 jednotlivc
 jednotlivc
-jednotlivec
+jednotlivk
 jednotlivkyň
 jednotliv
 jednotliv
@@ -11712,7 +11712,7 @@ jezdk
 jezdk
 jezdc
 jezdc
-jezdec
+jezdk
 jezdeck
 jezdeck
 jezdeck
@@ -11739,7 +11739,7 @@ jezern
 jezer
 jezer
 jezer
-jezevec
+jezevk
 jezeř
 jez
 jezuit
@@ -12048,7 +12048,7 @@ jíl
 jíl
 jím
 jímž
-jírovec
+jírovk
 jíst
 jít
 jízd
@@ -13117,7 +13117,7 @@ kmotr
 knih
 knih
 knih
-knihkupec
+knihkupk
 knihkupectv
 knih
 knihoven
@@ -13208,7 +13208,7 @@ kobalt
 koberk
 koberk
 koberc
-koberec
+koberk
 kobr
 kobylk
 kocour
@@ -13756,7 +13756,7 @@ kondenzátor
 kondenzátor
 kondik
 kondik
-konec
+konk
 konektor
 konektor
 konektor
@@ -13821,7 +13821,7 @@ kongres
 kongres
 kongres
 kon
-koniklec
+koniklk
 konipas
 konkláv
 konkordát
@@ -14044,7 +14044,7 @@ konzervatism
 konzervativk
 konzervativk
 konzervativc
-konzervativec
+konzervativk
 konzervativn
 konzervativn
 konzervativn
@@ -14148,7 +14148,7 @@ kopcovit
 kopcovit
 kopk
 kopc
-kopec
+kopk
 kopi
 kopi
 kopi
@@ -14280,7 +14280,7 @@ korýš
 korýš
 kos
 kos
-kosatec
+kosatk
 kosatk
 kosen
 kosmetik
@@ -14455,7 +14455,7 @@ kovář
 kov
 koz
 koz
-kozinec
+kozink
 kozlík
 koz
 kozák
@@ -14712,7 +14712,7 @@ kriz
 kriz
 krih
 krk
-krkavec
+krkavk
 krk
 krk
 krmen
@@ -15108,7 +15108,7 @@ kup
 kupk
 kupk
 kupc
-kupec
+kupk
 kupeck
 kuplet
 kupn
@@ -15513,7 +15513,7 @@ kříh
 kříženk
 kříženk
 kříženc
-kříženec
+kříženk
 křížen
 křížen
 kříh
@@ -15717,7 +15717,7 @@ ledn
 ledn
 ledn
 ledn
-ledoborec
+ledobork
 ledolezen
 ledovk
 ledovk
@@ -15728,7 +15728,7 @@ ledovc
 ledovc
 ledovc
 ledovc
-ledovec
+ledovk
 led
 led
 led
@@ -15909,7 +15909,7 @@ letk
 letk
 letk
 letc
-letec
+letk
 let
 leteck
 leteck
@@ -16040,7 +16040,7 @@ lexikáln
 lezk
 lezc
 leh
-lezec
+lezk
 lezeck
 lezeck
 lezen
@@ -16549,7 +16549,7 @@ lovk
 lovk
 lovc
 lov
-lovec
+lovk
 loveck
 loveck
 loveck
@@ -16845,7 +16845,7 @@ lídr
 líhn
 líhn
 límk
-límec
+límk
 línán
 líp
 líp
@@ -16866,7 +16866,7 @@ lík
 lóh
 lóh
 lóh
-lýkovec
+lýkovk
 lůžek
 lůžk
 lůžk
@@ -17758,7 +17758,7 @@ milenk
 milenk
 milenk
 milenc
-milenec
+milenk
 milenek
 milenk
 milenk
@@ -18080,7 +18080,7 @@ mlynář
 mlynář
 mlh
 mládenk
-mládenec
+mládenk
 mládež
 mládeh
 mládeh
@@ -18643,7 +18643,7 @@ moř
 moř
 mořeplavk
 mořeplavk
-mořeplavec
+mořeplavk
 moř
 mořsk
 mořsk
@@ -18699,7 +18699,7 @@ mramor
 mravenk
 mravenk
 mravenc
-mravenec
+mravenk
 mravenisk
 mravenk
 mravnost
@@ -18890,7 +18890,7 @@ myslitel
 myslivk
 myslivk
 myslivc
-myslivec
+myslivk
 mysliveck
 myslivn
 myslivn
@@ -19633,7 +19633,7 @@ nakloněn
 naklád
 nakládán
 nakolik
-nakonec
+nakonk
 nakoupil
 nakoupit
 nakreslil
@@ -22197,7 +22197,7 @@ nosn
 nosn
 nosorožk
 nosorožc
-nosorožec
+nosorožk
 nos
 nos
 nosítk
@@ -22837,7 +22837,7 @@ nástavb
 nástavk
 nástavk
 nástavk
-nástavec
+nástavk
 nástrah
 nástroj
 nástroj
@@ -23604,7 +23604,7 @@ obraz
 obrazk
 obrazc
 obrah
-obrazec
+obrazk
 obrah
 obrah
 obrazovk
@@ -24174,7 +24174,7 @@ odchod
 odchod
 odch
 odchovank
-odchovanec
+odchovank
 odch
 odch
 odchylek
@@ -24696,7 +24696,7 @@ odstartoval
 odstart
 odstavk
 odstavk
-odstavec
+odstavk
 odstaven
 odstaven
 odstaven
@@ -25941,7 +25941,7 @@ osmifinál
 osmilet
 osmilet
 osmitisícovek
-osmiválec
+osmiválk
 osmiúhelník
 osmičk
 osmičk
@@ -26638,7 +26638,7 @@ palk
 palc
 palebn
 palebn
-palec
+palk
 pal
 paleocén
 paleogén
@@ -27695,7 +27695,7 @@ plaveb
 plavebn
 plavebn
 plavebn
-plavec
+plavk
 plaveck
 plaveck
 plaveck
@@ -28524,7 +28524,7 @@ podst
 podstat
 podstavk
 podstavk
-podstavec
+podstavk
 podstoupil
 podstoupil
 podstoupit
@@ -29761,7 +29761,7 @@ poslank
 poslank
 poslanc
 poslanc
-poslanec
+poslank
 poslaneck
 poslaneck
 poslaneck
@@ -30507,7 +30507,7 @@ pověřen
 pověřen
 pověřenk
 pověřenc
-pověřenec
+pověřenk
 pověřen
 pověřen
 pověřen
@@ -32087,7 +32087,7 @@ prosil
 prosink
 prosink
 prosink
-prosinec
+prosink
 prosit
 prosklen
 prosklen
@@ -32584,12 +32584,12 @@ prstenk
 prstenk
 prstenk
 prstenc
-prstenec
+prstenk
 prsten
 prsten
 prsten
 prsten
-prstnatec
+prstnatk
 prst
 prst
 prst
@@ -32695,7 +32695,7 @@ pryskyřik
 pryskyřník
 pryskyřníkovit
 pryč
-pryšec
+pryšk
 prák
 prák
 prádeln
@@ -33268,7 +33268,7 @@ pískovc
 pískovc
 pískovk
 pískovc
-pískovec
+pískovk
 pískovn
 písk
 písk
@@ -33406,7 +33406,7 @@ pětk
 pěvk
 pěvk
 pěvc
-pěvec
+pěvk
 pěveck
 pěveck
 pěveck
@@ -33417,7 +33417,7 @@ pěveck
 pěveck
 pěvkyn
 pěšk
-pěšec
+pěšk
 pěš
 pěš
 pěšk
@@ -35379,7 +35379,7 @@ přírodovědk
 přírodovědk
 přírodovědk
 přírodovědc
-přírodovědec
+přírodovědk
 přírodovědeck
 přírodovědn
 přírodovědn
@@ -35577,7 +35577,7 @@ příznivk
 příznivk
 příznivc
 příznivc
-příznivec
+příznivk
 přízniv
 přízniv
 přízniv
@@ -36818,7 +36818,7 @@ rol
 rol
 rol
 romank
-romanopisec
+romanopisk
 romantick
 romantick
 romantick
@@ -37767,7 +37767,7 @@ rys
 rys
 rys
 rytk
-rytec
+rytk
 ryt
 ryt
 rytm
@@ -37828,7 +37828,7 @@ rámk
 rámk
 rámk
 rámc
-rámec
+rámk
 rám
 rám
 rámečk
@@ -37899,7 +37899,7 @@ různ
 růh
 růh
 růženk
-růženec
+růženk
 růh
 růžik
 růžik
@@ -37973,7 +37973,7 @@ samk
 samk
 samc
 samc
-samec
+samk
 samet
 samet
 samečk
@@ -38139,7 +38139,7 @@ savan
 savk
 savk
 savc
-savec
+savk
 savojsk
 saxofon
 saxofonist
@@ -39132,7 +39132,7 @@ sirotk
 sirotk
 sirotčink
 sirotčink
-sirotčinec
+sirotčink
 sirup
 sitcom
 sitcom
@@ -39700,7 +39700,7 @@ sloupk
 sloupk
 sloupk
 sloupc
-sloupec
+sloupk
 sloup
 sloupek
 sloup
@@ -40134,7 +40134,7 @@ snižujík
 snooker
 snoubenk
 snoubenk
-snoubenec
+snoubenk
 snoubenk
 snoubenk
 snoubenk
@@ -40904,7 +40904,7 @@ spojenk
 spojenk
 spojenc
 spojenc
-spojenec
+spojenk
 spojeneck
 spojeneck
 spojeneck
@@ -41154,7 +41154,7 @@ sportovk
 sportovk
 sportovc
 sportovc
-sportovec
+sportovk
 sportovisk
 sportovisk
 sportovkyn
@@ -41375,7 +41375,7 @@ srdečn
 srdečn
 srdčit
 srdčit
-srnec
+srnk
 srnk
 srostl
 srostl
@@ -41783,7 +41783,7 @@ stačil
 stačil
 stačit
 stak
-stařec
+stařk
 stař
 stať
 stažen
@@ -41898,7 +41898,7 @@ stolk
 stolk
 stolk
 stol
-stolec
+stolk
 stol
 stolet
 stolet
@@ -41955,7 +41955,7 @@ stoupenk
 stoupenk
 stoupenc
 stoupenc
-stoupenec
+stoupenk
 stoupl
 stoupl
 stoupn
@@ -42544,7 +42544,7 @@ střelk
 střelk
 střelc
 střel
-střelec
+střelk
 střeleck
 střeleck
 střeleck
@@ -43032,7 +43032,7 @@ světk
 světk
 světc
 svět
-světec
+světk
 svět
 světel
 světeln
@@ -43198,7 +43198,7 @@ synonymum
 synovk
 synovk
 synovk
-synovec
+synovk
 syn
 syn
 syntaktick
@@ -43557,7 +43557,7 @@ tank
 tank
 tank
 tanc
-tanec
+tank
 tanečnik
 tanečnik
 tanečn
@@ -44195,7 +44195,7 @@ tištěn
 tištěn
 tištěn
 tj
-tkadlec
+tkadlk
 tkalk
 tkalk
 tkalcovn
@@ -44330,7 +44330,7 @@ torpédobork
 torpédobork
 torpédobork
 torpédoborc
-torpédoborec
+torpédobork
 torpédomet
 torpédomet
 torpédomet
@@ -45954,7 +45954,7 @@ umělc
 umělc
 umělc
 uměl
-umělec
+umělk
 uměleck
 uměleckoprůmysl
 uměleckoprůmysl
@@ -46724,7 +46724,7 @@ učenk
 učenk
 učenk
 učenc
-učenec
+učenk
 učen
 učen
 učen
@@ -46880,7 +46880,7 @@ vagón
 vagón
 vah
 vah
-vajec
+vajk
 vaječn
 vaječník
 vajíček
@@ -47033,7 +47033,7 @@ vdechnut
 vdechován
 vdov
 vdov
-vdovec
+vdovk
 vdov
 vdov
 vdov
@@ -47238,7 +47238,7 @@ velvyslank
 velvyslank
 velvyslank
 velvyslanc
-velvyslanec
+velvyslank
 velvyslanectv
 velvyslankyn
 vel
@@ -47691,7 +47691,7 @@ vlast
 vlastenk
 vlastenk
 vlastenc
-vlastenec
+vlastenk
 vlasteneck
 vlasteneck
 vlasteneck
@@ -48210,7 +48210,7 @@ vpád
 vpád
 vpřed
 vpřed
-vrabec
+vrabk
 vracej
 vracejík
 vracel
@@ -49390,7 +49390,7 @@ vyslank
 vyslank
 vyslank
 vyslanc
-vyslanec
+vyslank
 vyslanectv
 vyslan
 vyslan
@@ -50282,7 +50282,7 @@ vzork
 vzork
 vzork
 vzorc
-vzorec
+vzork
 vzorek
 vzor
 vzork
@@ -50435,7 +50435,7 @@ válc
 válc
 válc
 válc
-válec
+válk
 válek
 válečk
 válečnictv
@@ -50485,7 +50485,7 @@ vápenc
 vápenc
 vápenk
 vápenc
-vápenec
+vápenk
 vápenk
 vápenk
 vápn
@@ -51332,7 +51332,7 @@ vědk
 vědk
 vědc
 vědc
-vědec
+vědk
 vědeck
 vědeckofantastick
 vědeck
@@ -51391,7 +51391,7 @@ věnk
 věnk
 věnk
 věnc
-věnec
+věnk
 věn
 věn
 věnoval
@@ -51589,21 +51589,21 @@ všestrann
 všestrann
 všestrann
 všežravk
-všežravec
+všežravk
 všichn
 všiml
 všiml
 všiml
 všimn
 všimnout
-všivec
+všivk
 všud
 všudypřítomn
 vší
 vším
 vším
 vším
-vůbec
+vůbk
 vůdk
 vůdk
 vůdk
@@ -51992,7 +51992,7 @@ zaj
 zajatk
 zajatk
 zajatc
-zajatec
+zajatk
 zajateck
 zajateck
 zajateck
@@ -52281,7 +52281,7 @@ zaměstnank
 zaměstnank
 zaměstnanc
 zaměstnanc
-zaměstnanec
+zaměstnank
 zaměstnaneck
 zaměstnanost
 zaměstnanost
@@ -53367,7 +53367,7 @@ zemědělk
 zemědělk
 zemědělc
 zemědělc
-zemědělec
+zemědělk
 zemědělsk
 zemědělsk
 zemědělsk
@@ -53774,7 +53774,7 @@ zlok
 zločink
 zločink
 zločinc
-zločinec
+zločink
 zlok
 zločineck
 zlok
@@ -53848,7 +53848,7 @@ zmocnil
 zmocnit
 zmocn
 zmocněnk
-zmocněnec
+zmocněnk
 zmocněn
 zmodernizován
 zmrazen
@@ -53932,7 +53932,7 @@ znalk
 znalk
 znalk
 znalc
-znalec
+znalk
 znal
 znalost
 znalost
@@ -56356,7 +56356,7 @@ zůstáv
 červenk
 červenc
 červenc
-červenec
+červenk
 červen
 červenohněd
 červenohněd
@@ -56672,7 +56672,7 @@ zůstáv
 čtverc
 čtverc
 čtverc
-čtverec
+čtverk
 čtverečn
 čtverečn
 čtverečn
@@ -56752,7 +56752,7 @@ zůstáv
 čtyřstupň
 čtyřválc
 čtyřválc
-čtyřválec
+čtyřválk
 čtyřúhelník
 čtyřčetn
 čtyřčlenn
@@ -56991,7 +56991,7 @@ zůstáv
 řetězk
 řetězk
 řetězc
-řetězec
+řetězk
 řetěh
 řetěh
 řetěz
@@ -57301,7 +57301,7 @@ zůstáv
 šestilet
 šestiměsíčn
 šestiválc
-šestiválec
+šestiválk
 šestičlenn
 šestk
 šestkrát
@@ -57967,7 +57967,7 @@ zůstáv
 životn
 životopis
 životopis
-životopisec
+životopisk
 životopisn
 životopisn
 životopisn
