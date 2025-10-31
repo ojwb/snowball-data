@@ -1848,7 +1848,7 @@ bezplatn
 bezplatn
 bezpochyb
 bezpodmínečn
-bezpočet
+bezpočt
 bezprecedentn
 bezprostředn
 bezprostředn
@@ -4202,7 +4202,7 @@ degradak
 degradak
 degradován
 degre
-dehet
+deht
 deht
 dehydratak
 dehydratak
@@ -12458,7 +12458,7 @@ kardinál
 kardinál
 kardiovaskulárn
 kardiovaskulárn
-karet
+kart
 karetn
 kar
 karibsk
@@ -13106,7 +13106,7 @@ kmen
 kmen
 kmen
 kmen
-kmitočet
+kmitočt
 kmitočt
 kmit
 kmitán
@@ -15448,7 +15448,7 @@ křivk
 křivk
 křivk
 křivk
-křičet
+křičt
 křik
 křišťál
 křišťál
@@ -15952,7 +15952,7 @@ letohrádk
 letokruh
 letopis
 letopis
-letopočet
+letopočt
 letopočt
 letopočt
 letopočt
@@ -16454,7 +16454,7 @@ lokalizak
 lokalizak
 lokaliz
 lokalizován
-loket
+lokt
 loketn
 lokomotiv
 lokomotiv
@@ -20053,7 +20053,7 @@ natáčen
 natáčen
 natáčen
 natáčen
-natáčet
+natáčt
 naták
 nauk
 nauk
@@ -21472,7 +21472,7 @@ nespolehliv
 nespolehliv
 nesporn
 nesporn
-nespočet
+nespočt
 nespravedliv
 nespravedliv
 nespravedlnost
@@ -26257,7 +26257,7 @@ otáčejík
 otáčk
 otáčen
 otáčen
-otáčet
+otáčt
 otáčk
 otáčk
 oták
@@ -27551,7 +27551,7 @@ placen
 placen
 placen
 placen
-plachet
+placht
 plachetnic
 plachetnik
 placht
@@ -30712,7 +30712,7 @@ počal
 počas
 počas
 počest
-počet
+počt
 početnost
 početnost
 početn
@@ -37312,7 +37312,7 @@ rozpoznán
 rozpoznán
 rozpoznáv
 rozpoznáván
-rozpočet
+rozpočt
 rozpočt
 rozpočt
 rozpočt
@@ -40640,7 +40640,7 @@ současn
 současn
 současn
 současn
-součet
+součt
 souk
 souk
 součinitel
@@ -44898,7 +44898,7 @@ tuberkulóz
 tuberkulóz
 tub
 tubus
-tucet
+tuct
 tuct
 tuk
 tud
@@ -50943,7 +50943,7 @@ výpověd
 výpovědn
 výpověd
 výpověď
-výpočet
+výpočt
 výpočetn
 výpočetn
 výpočetn
@@ -51265,7 +51265,7 @@ výzv
 výzv
 výzv
 výzv
-výčet
+výčt
 výčitk
 výčt
 výčt
@@ -57197,7 +57197,7 @@ zůstáv
 šablon
 šablon
 šach
-šachet
+šacht
 šachist
 šachist
 šachovnik
