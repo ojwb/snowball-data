@@ -2727,7 +2727,7 @@ bán
 bánov
 bán
 bán
-báseň
+básn
 básn
 básnick
 básnick
@@ -9217,7 +9217,7 @@ hlav
 hlav
 hlav
 hlavat
-hlaveň
+hlavn
 hlavic
 hlavik
 hlavik
@@ -10117,7 +10117,7 @@ hrudník
 hrud
 hruď
 hrušk
-hrušeň
+hrušn
 hrušk
 hrušn
 hrušn
@@ -15366,7 +15366,7 @@ káv
 káv
 kázal
 káz
-kázeň
+kázn
 káznik
 kázn
 kázán
@@ -16726,7 +16726,7 @@ láv
 láv
 láv
 láv
-lázeň
+lázn
 lázeňsk
 lázeňsk
 lázeňsk
@@ -17686,7 +17686,7 @@ meziprodukt
 mezipřistán
 meziročn
 meziročn
-mezistupeň
+mezistupn
 mezistátn
 mezistátn
 mezistátn
@@ -21330,7 +21330,7 @@ nepřítel
 nepřítel
 nepřítomnost
 nepřítomnost
-nepřízeň
+nepřízn
 nepřízn
 nepřízniv
 nepřízniv
@@ -28010,7 +28010,7 @@ pláh
 plén
 plénum
 plík
-plíseň
+plísn
 plísn
 plísn
 plísn
@@ -28080,7 +28080,7 @@ pocen
 pochlubit
 pochod
 pochod
-pochodeň
+pochodn
 pochod
 pochod
 pochod
@@ -30382,7 +30382,7 @@ povinn
 povinn
 povlak
 povlak
-povodeň
+povodn
 povodn
 povodn
 povodn
@@ -31693,7 +31693,7 @@ prohlouben
 prohloubil
 prohloubil
 prohloubit
-prohlubeň
+prohlubn
 prohlubn
 prohlub
 prohlubován
@@ -33255,7 +33255,7 @@ písečn
 písečn
 písečn
 písečn
-píseň
+písn
 písk
 pískovk
 pískovk
@@ -35562,7 +35562,7 @@ přízemn
 přízemn
 přízem
 přízem
-přízeň
+přízn
 příh
 příznak
 příznak
@@ -36942,7 +36942,7 @@ router
 roušk
 roušk
 roven
-roveň
+rovn
 rov
 rov
 rovinat
@@ -39313,7 +39313,7 @@ skleróz
 sklidil
 sklidil
 sklidil
-sklizeň
+sklizn
 sklizn
 sklizn
 sklizn
@@ -41432,7 +41432,7 @@ srážk
 srážk
 srážk
 sráh
-sršeň
+sršn
 sršn
 sršn
 srůstaj
@@ -42257,7 +42257,7 @@ stuh
 stuh
 stuh
 stuh
-stupeň
+stupn
 stupn
 stupnik
 stupnik
@@ -42458,7 +42458,7 @@ stět
 stěžejn
 stěžejn
 stěžejn
-stěžeň
+stěžn
 stěžn
 stěžoval
 stěžoval
@@ -45434,7 +45434,7 @@ třet
 třet
 třezalk
 třeň
-třešeň
+třešn
 třešn
 třešn
 tři
@@ -50518,7 +50518,7 @@ váčk
 váčk
 váčk
 váš
-vášeň
+vášn
 vášniv
 vášniv
 vášniv
@@ -51491,7 +51491,7 @@ větš
 větš
 vězen
 vězen
-vězeň
+vězn
 vězeňsk
 vězeňsk
 vězeňsk
@@ -55188,7 +55188,7 @@ zármutk
 zárodk
 zárodk
 zárodk
-zároveň
+zárovn
 záruk
 záruk
 záruk
@@ -55813,7 +55813,7 @@ zůstáv
 úrok
 úrok
 úrok
-úroveň
+úrovn
 úrovn
 úrovn
 úrovn
@@ -58129,5 +58129,5 @@ zůstáv
 žíl
 žíl
 žít
-žízeň
+žízn
 žížal
