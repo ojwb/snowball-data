@@ -2608,7 +2608,7 @@ bunkr
 bunkr
 bunkr
 bunkr
-buněk
+buňk
 buněčn
 buněčn
 buněčn
@@ -5456,7 +5456,7 @@ doplnil
 doplnil
 doplnit
 dopln
-doplněk
+doplňk
 doplněn
 doplněn
 doplněn
@@ -27263,7 +27263,7 @@ pekl
 pekárn
 pekárn
 peloponésk
-pelyněk
+pelyňk
 penalizak
 penalt
 penalt
