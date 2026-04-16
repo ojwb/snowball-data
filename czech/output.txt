@@ -2524,7 +2524,7 @@ buddhistick
 buddhist
 bud
 budem
-bud
+budet
 budeš
 buditel
 budiž
@@ -4231,7 +4231,7 @@ dekoračn
 dekor
 dekorován
 dekret
-dekr
+dekret
 dekret
 dekret
 dekret
@@ -5690,7 +5690,7 @@ dostal
 dostal
 dostan
 dostanem
-dostan
+dostanet
 dostan
 dost
 dostatk
@@ -8057,7 +8057,7 @@ fjord
 flandersk
 flash
 flavonoid
-fler
+fleret
 fleretistk
 fleretist
 flexibilit
@@ -10969,7 +10969,7 @@ internačn
 internačn
 internačn
 internet
-intern
+internet
 internet
 internet
 internet
@@ -10997,7 +10997,7 @@ interpretak
 interpretak
 interpretak
 interpretačn
-interpr
+interpret
 interpret
 interpretoval
 interpret
@@ -13169,7 +13169,7 @@ knížek
 knížk
 kníž
 kníž
-knížet
+kníž
 knížk
 knížk
 knížk
@@ -15052,7 +15052,7 @@ kulk
 kulk
 kulminoval
 kulomet
-kulom
+kulomet
 kulometn
 kulomet
 kulomet
@@ -15237,7 +15237,7 @@ kvark
 kvark
 kvartet
 kvartet
-kvart
+kvartet
 kvartet
 kvartet
 kvasink
@@ -16925,7 +16925,7 @@ magmatick
 magmat
 magn
 magnet
-magn
+magnet
 magnetick
 magnetick
 magnetick
@@ -19601,7 +19601,7 @@ najal
 naj
 najd
 najdem
-najd
+najdet
 najd
 najedn
 najel
@@ -19667,7 +19667,7 @@ nalezl
 nalezl
 nalezn
 naleznem
-nalezn
+naleznet
 nalezn
 nalodil
 naložit
@@ -54801,7 +54801,7 @@ zvířek
 zvířek
 zvíř
 zvíř
-zvířet
+zvíř
 zvýhodněn
 zvýrazněn
 zvýrazněn
